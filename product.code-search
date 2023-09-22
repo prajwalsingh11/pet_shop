@@ -1,0 +1,1137 @@
+# Query: product
+# ContextLines: 1
+
+648 results - 58 files
+
+_index.html:
+   28                              <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+   29:                                 <li><a class="dropdown-item" href="#!">All Products</a></li>
+   30                                  <li><hr class="dropdown-divider" /></li>
+
+   60                          <div class="card h-100">
+   61:                             <!-- Product image-->
+   62                              <img class="card-img-top" src="https://dummyimage.com/450x300/dee2e6/6c757d.jpg" alt="..." />
+   63:                             <!-- Product details-->
+   64                              <div class="card-body p-4">
+   65                                  <div class="text-center">
+   66:                                     <!-- Product name-->
+   67:                                     <h5 class="fw-bolder">Fancy Product</h5>
+   68:                                     <!-- Product price-->
+   69                                      $40.00 - $80.00
+
+   71                              </div>
+   72:                             <!-- Product actions-->
+   73                              <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+
+   81                              <div class="badge bg-dark text-white position-absolute" style="top: 0.5rem; right: 0.5rem">Sale</div>
+   82:                             <!-- Product image-->
+   83                              <img class="card-img-top" src="https://dummyimage.com/450x300/dee2e6/6c757d.jpg" alt="..." />
+   84:                             <!-- Product details-->
+   85                              <div class="card-body p-4">
+   86                                  <div class="text-center">
+   87:                                     <!-- Product name-->
+   88                                      <h5 class="fw-bolder">Special Item</h5>
+   89:                                     <!-- Product reviews-->
+   90                                      <div class="d-flex justify-content-center small text-warning mb-2">
+
+   96                                      </div>
+   97:                                     <!-- Product price-->
+   98                                      <span class="text-muted text-decoration-line-through">$20.00</span>
+
+  101                              </div>
+  102:                             <!-- Product actions-->
+  103                              <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+
+  111                              <div class="badge bg-dark text-white position-absolute" style="top: 0.5rem; right: 0.5rem">Sale</div>
+  112:                             <!-- Product image-->
+  113                              <img class="card-img-top" src="https://dummyimage.com/450x300/dee2e6/6c757d.jpg" alt="..." />
+  114:                             <!-- Product details-->
+  115                              <div class="card-body p-4">
+  116                                  <div class="text-center">
+  117:                                     <!-- Product name-->
+  118                                      <h5 class="fw-bolder">Sale Item</h5>
+  119:                                     <!-- Product price-->
+  120                                      <span class="text-muted text-decoration-line-through">$50.00</span>
+
+  123                              </div>
+  124:                             <!-- Product actions-->
+  125                              <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+
+  131                          <div class="card h-100">
+  132:                             <!-- Product image-->
+  133                              <img class="card-img-top" src="https://dummyimage.com/450x300/dee2e6/6c757d.jpg" alt="..." />
+  134:                             <!-- Product details-->
+  135                              <div class="card-body p-4">
+  136                                  <div class="text-center">
+  137:                                     <!-- Product name-->
+  138                                      <h5 class="fw-bolder">Popular Item</h5>
+  139:                                     <!-- Product reviews-->
+  140                                      <div class="d-flex justify-content-center small text-warning mb-2">
+
+  146                                      </div>
+  147:                                     <!-- Product price-->
+  148                                      $40.00
+
+  150                              </div>
+  151:                             <!-- Product actions-->
+  152                              <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+
+  160                              <div class="badge bg-dark text-white position-absolute" style="top: 0.5rem; right: 0.5rem">Sale</div>
+  161:                             <!-- Product image-->
+  162                              <img class="card-img-top" src="https://dummyimage.com/450x300/dee2e6/6c757d.jpg" alt="..." />
+  163:                             <!-- Product details-->
+  164                              <div class="card-body p-4">
+  165                                  <div class="text-center">
+  166:                                     <!-- Product name-->
+  167                                      <h5 class="fw-bolder">Sale Item</h5>
+  168:                                     <!-- Product price-->
+  169                                      <span class="text-muted text-decoration-line-through">$50.00</span>
+
+  172                              </div>
+  173:                             <!-- Product actions-->
+  174                              <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+
+  180                          <div class="card h-100">
+  181:                             <!-- Product image-->
+  182                              <img class="card-img-top" src="https://dummyimage.com/450x300/dee2e6/6c757d.jpg" alt="..." />
+  183:                             <!-- Product details-->
+  184                              <div class="card-body p-4">
+  185                                  <div class="text-center">
+  186:                                     <!-- Product name-->
+  187:                                     <h5 class="fw-bolder">Fancy Product</h5>
+  188:                                     <!-- Product price-->
+  189                                      $120.00 - $280.00
+
+  191                              </div>
+  192:                             <!-- Product actions-->
+  193                              <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+
+  201                              <div class="badge bg-dark text-white position-absolute" style="top: 0.5rem; right: 0.5rem">Sale</div>
+  202:                             <!-- Product image-->
+  203                              <img class="card-img-top" src="https://dummyimage.com/450x300/dee2e6/6c757d.jpg" alt="..." />
+  204:                             <!-- Product details-->
+  205                              <div class="card-body p-4">
+  206                                  <div class="text-center">
+  207:                                     <!-- Product name-->
+  208                                      <h5 class="fw-bolder">Special Item</h5>
+  209:                                     <!-- Product reviews-->
+  210                                      <div class="d-flex justify-content-center small text-warning mb-2">
+
+  216                                      </div>
+  217:                                     <!-- Product price-->
+  218                                      <span class="text-muted text-decoration-line-through">$20.00</span>
+
+  221                              </div>
+  222:                             <!-- Product actions-->
+  223                              <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+
+  229                          <div class="card h-100">
+  230:                             <!-- Product image-->
+  231                              <img class="card-img-top" src="https://dummyimage.com/450x300/dee2e6/6c757d.jpg" alt="..." />
+  232:                             <!-- Product details-->
+  233                              <div class="card-body p-4">
+  234                                  <div class="text-center">
+  235:                                     <!-- Product name-->
+  236                                      <h5 class="fw-bolder">Popular Item</h5>
+  237:                                     <!-- Product reviews-->
+  238                                      <div class="d-flex justify-content-center small text-warning mb-2">
+
+  244                                      </div>
+  245:                                     <!-- Product price-->
+  246                                      $40.00
+
+  248                              </div>
+  /div>
+   72:                             <!-- Product actions-->
+   73                              <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+
+   81                              <div class="badge bg-dark text-white position-absolute" style="top: 0.5rem; right: 0.5rem">Sale</div>
+   82:                             <!-- Product image-->
+   83                              <img class="card-img-top" src="https://dummyimage.com/450x300/dee2e6/6c757d.jpg" alt="..." />
+   84:                             <!-- Product details-->
+   85                              <div class="card-body p-4">
+   86                                  <div class="text-center">
+   87:                                     <!-- Product name-->
+   88                                      <h5 class="fw-bolder">Special Item</h5>
+   89:                                     <!-- Product reviews-->
+   90                                      <div class="d-flex justify-content-center small text-warning mb-2">
+
+   96                                      </div>
+   97:                                     <!-- Product price-->
+   98                                      <span class="text-muted text-decoration-line-through">$20.00</span> </div>
+                                            
+  249:                             <!-- Product actions-->
+  250                              <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+
+cart.php:
+  13                  <?php 
+  14:                     $qry = $conn->query("SELECT c.*,p.product_name,i.size,i.price,p.id as pid from `cart` c inner join `inventory` i on i.id=c.inventory_id inner join products p on p.id = i.product_id where c.client_id = ".$_settings->userdata('id'));
+  15                      while($row= $qry->fetch_assoc()):
+  16:                         $upload_path = base_app.'/uploads/product_'.$row['pid'];
+  17                          $img = "";
+
+  20                              if(isset($fileO[2]))
+  21:                                 $img = "uploads/product_".$row['pid']."/".$fileO[2];
+  22                              // var_dump($fileO);
+
+  29                              <div>
+  30:                                 <p class="mb-1 mb-sm-1"><?php echo $row['product_name'] ?></p>
+  31                                  <p class="mb-1 mb-sm-1"><small><b>Size:</b> <?php echo $row['size'] ?></small></p>
+
+checkout.php:
+   3  $total = 0;
+   4:     $qry = $conn->query("SELECT c.*,p.product_name,i.size,i.price,p.id as pid from `cart` c inner join `inventory` i on i.id=c.inventory_id inner join products p on p.id = i.product_id where c.client_id = ".$_settings->userdata('id'));
+   5      while($row= $qry->fetch_assoc()):
+
+  43  paypal.Button.render({
+  44:     env: 'sandbox', // change for production if app is live,
+  45   
+
+  48          sandbox:    'AdDNu0ZwC3bqzdjiiQlmQ4BRJsOarwyMVD_L4YQPrQm4ASuBg4bV5ZoH-uveg8K_l9JLCmipuiKt4fxn',
+  49:         //production: 'AaBHKJFEej4V6yaArjzSx9cuf-UYesQYKqynQVCdBlKuZKawDDzFyuQdidPOBSGEhWaNQnnvfzuFB9SM'
+  50      },
+
+home.php:
+  14              <?php 
+  15:                 $products = $conn->query("SELECT * FROM `products` where status = 1 order by rand() limit 8 ");
+  16:                 while($row = $products->fetch_assoc()):
+  17:                     $upload_path = base_app.'/uploads/product_'.$row['id'];
+  18                      $img = "";
+
+  21                          if(isset($fileO[2]))
+  22:                             $img = "uploads/product_".$row['id']."/".$fileO[2];
+  23                          // var_dump($fileO);
+  24                      }
+  25:                     $inventory = $conn->query("SELECT * FROM inventory where product_id = ".$row['id']);
+  26                      $inv = array();
+
+  31              <div class="col mb-5">
+  32:                 <div class="card h-100 product-item">
+  33:                     <!-- Product image-->
+  34                      <img class="card-img-top w-100" src="<?php echo validate_image($img) ?>" alt="..." />
+  35:                     <!-- Product details-->
+  36                      <div class="card-body p-4">
+  37                          <div class="text-center">
+  38:                             <!-- Product name-->
+  39:                             <h5 class="fw-bolder"><?php echo $row['product_name'] ?></h5>
+  40:                             <!-- Product price-->
+  41                              <?php foreach($inv as $k=> $v): ?>
+
+  45                      </div>
+  46:                     <!-- Product actions-->
+  47                      <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+  48                          <div class="text-center">
+  49:                             <a class="btn btn-flat btn-primary "   href=".?p=view_product&id=<?php echo md5($row['id']) ?>">View</a>
+  50                          </div>
+
+products.php:
+    2  $title = "Your Pets Deserve The Best";
+    3: $sub_title = "Explore our products for your pet.";
+    4  if(isset($_GET['c']) && isset($_GET['s'])){
+
+   49                  if(isset($_GET['search']))
+   50:                     $whereData = " and (product_name LIKE '%{$_GET['search']}%' or description LIKE '%{$_GET['search']}%')";
+   51                  elseif(isset($_GET['c']) && isset($_GET['s']))
+
+   56                      $whereData = " and md5(sub_category_id) = '{$_GET['s']}' ";
+   57:                 $products = $conn->query("SELECT * FROM `products` where status = 1 {$whereData} order by rand() ");
+   58:                 while($row = $products->fetch_assoc()):
+   59:                     $upload_path = base_app.'/uploads/product_'.$row['id'];
+   60                      $img = "";
+
+   63                          if(isset($fileO[2]))
+   64:                             $img = "uploads/product_".$row['id']."/".$fileO[2];
+   65                          // var_dump($fileO);
+   66                      }
+   67:                     $inventory = $conn->query("SELECT * FROM inventory where product_id = ".$row['id']);
+   68                      $inv = array();
+
+   73              <div class="col mb-5">
+   74:                 <div class="card h-100 product-item">
+   75:                     <!-- Product image-->
+   76                      <img class="card-img-top w-100" src="<?php echo validate_image($img) ?>" loading="lazy" alt="..." />
+   77:                     <!-- Product details-->
+   78                      <div class="card-body p-4">
+   79                          <div class="text-center">
+   80:                             <!-- Product name-->
+   81:                             <h5 class="fw-bolder"><?php echo $row['product_name'] ?></h5>
+   82:                             <!-- Product price-->
+   83                              <?php foreach($inv as $k=> $v): ?>
+
+   87                      </div>
+   88:                     <!-- Product actions-->
+   89                      <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+   90                          <div class="text-center">
+   91:                             <a class="btn btn-flat btn-primary "   href=".?p=view_product&id=<?php echo md5($row['id']) ?>">View</a>
+   92                          </div>
+
+   98              <?php 
+   99:                 if($products->num_rows <= 0){
+  100:                     echo "<h4 class='text-center'><b>No Product Listed.</b></h4>";
+  101                  }
+
+view_product.php:
+    1  <?php 
+    2:  $products = $conn->query("SELECT * FROM `products`  where md5(id) = '{$_GET['id']}' ");
+    3:  if($products->num_rows > 0){
+    4:      foreach($products->fetch_assoc() as $k => $v){
+    5           $$k= $v;
+    6       }
+    7:     $upload_path = base_app.'/uploads/product_'.$id;
+    8      $img = "";
+
+   11          if(isset($fileO[2]))
+   12:             $img = "uploads/product_".$id."/".$fileO[2];
+   13          // var_dump($fileO);
+   14      }
+   15:     $inventory = $conn->query("SELECT * FROM inventory where product_id = ".$id);
+   16      $inv = array();
+
+   32                      ?>
+   33:                         <a href="javascript:void(0)" class="view-image <?php echo $k == 2 ? "active":'' ?>"><img src="<?php echo validate_image('uploads/product_'.$id.'/'.$img) ?>" loading="lazy"  class="img-thumbnail" alt=""></a>
+   34                      <?php endforeach; ?>
+
+   38                  <!-- <div class="small mb-1">SKU: BST-498</div> -->
+   39:                 <h1 class="display-5 fw-bolder"><?php echo $product_name ?></h1>
+   40                  <div class="fs-5 mb-5">
+
+   69      <div class="container px-4 px-lg-5 mt-5">
+   70:         <h2 class="fw-bolder mb-4">Related products</h2>
+   71          <div class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
+   72          <?php 
+   73:             $products = $conn->query("SELECT * FROM `products` where status = 1 and (category_id = '{$category_id}' or sub_category_id = '{$sub_category_id}') and id !='{$id}' order by rand() limit 4 ");
+   74:             while($row = $products->fetch_assoc()):
+   75:                 $upload_path = base_app.'/uploads/product_'.$row['id'];
+   76                  $img = "";
+
+   79                      if(isset($fileO[2]))
+   80:                         $img = "uploads/product_".$row['id']."/".$fileO[2];
+   81                      // var_dump($fileO);
+   82                  }
+   83:                 $inventory = $conn->query("SELECT * FROM inventory where product_id = ".$row['id']);
+   84                  $_inv = array();
+
+   89              <div class="col mb-5">
+   90:                 <div class="card h-100 product-item">
+   91:                     <!-- Product image-->
+   92                      <img class="card-img-top w-100" src="<?php echo validate_image($img) ?>" alt="..." />
+   93:                     <!-- Product details-->
+   94                      <div class="card-body p-4">
+   95                          <div class="text-center">
+   96:                             <!-- Product name-->
+   97:                             <h5 class="fw-bolder"><?php echo $row['product_name'] ?></h5>
+   98:                             <!-- Product price-->
+   99                              <?php foreach($_inv as $k=> $v): ?>
+
+  103                      </div>
+  104:                     <!-- Product actions-->
+  105                      <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+  106                          <div class="text-center">
+  107:                             <a class="btn btn-flat btn-primary "   href=".?p=view_product&id=<?php echo md5($row['id']) ?>">View</a>
+  108                          </div>
+
+  155                      if(typeof resp == 'object' && resp.status=='success'){
+  156:                         alert_toast("Product added to cart.",'success')
+  157                          $('#cart-count').text(resp.cart_count)
+
+admin/home.php:
+   5      $files = array();
+   6:     $products = $conn->query("SELECT * FROM `products` order by rand() ");
+   7:     while($row = $products->fetch_assoc()){
+   8:       if(!is_dir(base_app.'uploads/product_'.$row['id']))
+   9        continue;
+  10:       $fopen = scandir(base_app.'uploads/product_'.$row['id']);
+  11        foreach($fopen as $fname){
+
+  13            continue;
+  14:         $files[]= validate_image('uploads/product_'.$row['id'].'/'.$fname);
+  15        }
+
+admin/inc/navigation.php:
+  34                      <li class="nav-item dropdown">
+  35:                       <a href="<?php echo base_url ?>admin/?page=product" class="nav-link nav-product">
+  36                          <i class="nav-icon fas fa-box"></i>
+  37                          <p>
+  38:                           Product List
+  39                          </p>
+
+admin/inventory/index.php:
+  28  						<th>#</th>
+  29: 						<th>Product</th>
+  30  						<th>Unit</th>
+
+  39  					$i = 1;
+  40: 						$qry = $conn->query("SELECT i.*,p.product_name as product from `inventory` i inner join `products` p on p.id = i.product_id order by unix_timestamp(i.date_created) desc ");
+  41  						while($row = $qry->fetch_assoc()):
+  42: 						$sold = $conn->query("SELECT SUM(ol.quantity) as sold FROM order_list ol inner join orders o on o.id = ol.order_id where ol.product_id='{$row['id']}' and o.`status` != 4 ");
+  43  						$sold = $sold->num_rows > 0 ? $sold->fetch_assoc()['sold'] : 0;
+
+  47  							<td class="text-center"><?php echo $i++; ?></td>
+  48: 							<td><?php echo $row['product'] ?></td>
+  49  							<td><?php echo $row['unit'] ?></td>
+
+admin/inventory/manage_inventory.php:
+  18  			<div class="form-group">
+  19: 				<label for="product_id" class="control-label">Product</label>
+  20:                 <select name="product_id" id="product_id" class="custom-select select2" required>
+  21                      <option value=""></option>
+  22                      <?php
+  23:                         $qry = $conn->query("SELECT * FROM `products` order by product_name asc");
+  24                          while($row= $qry->fetch_assoc()):
+  25                      ?>
+  26:                     <option value="<?php echo $row['id'] ?>" <?php echo isset($product_id) && $product_id == $row['id'] ? 'selected' : '' ?>><?php echo $row['product_name'] ?></option>
+  27                      <?php endwhile; ?>
+
+admin/orders/manage_product.php:
+    2  if(isset($_GET['id']) && $_GET['id'] > 0){
+    3:     $qry = $conn->query("SELECT * from `products` where id = '{$_GET['id']}' ");
+    4      if($qry->num_rows > 0){
+
+   12  	<div class="card-header">
+   13: 		<h3 class="card-title"><?php echo isset($id) ? "Update ": "Create New " ?> Product</h3>
+   14  	</div>
+   15  	<div class="card-body">
+   16: 		<form action="" id="product-form">
+   17  			<input type="hidden" name ="id" value="<?php echo isset($id) ? $id : '' ?>">
+
+   43  			<div class="form-group">
+   44: 				<label for="product_name" class="control-label">Product Name</label>
+   45:                 <textarea name="product_name" id="" cols="30" rows="2" class="form-control form no-resize"><?php echo isset($product_name) ? $product_name : ''; ?></textarea>
+   46  			</div>
+
+   66              if(isset($id)):
+   67:             $upload_path = "uploads/product_".$id;
+   68              if(is_dir(base_app.$upload_path)): 
+
+   89  	<div class="card-footer">
+   90: 		<button class="btn btn-flat btn-primary" form="product-form">Save</button>
+   91: 		<a class="btn btn-flat btn-default" href="?page=product">Cancel</a>
+   92  	</div>
+
+  163          }
+  164: 		$('#product-form').submit(function(e){
+  165  			e.preventDefault();
+
+  169  			$.ajax({
+  170: 				url:_base_url_+"classes/Master.php?f=save_product",
+  171  				data: new FormData($(this)[0]),
+
+  184  					if(typeof resp =='object' && resp.status == 'success'){
+  185: 						location.href = "./?page=product";
+  186  					}else if(resp.status == 'failed' && !!resp.msg){
+
+admin/orders/view_order.php:
+  40                          <th>Unit</th>
+  41:                         <th>Product</th>
+  42                          <th>Price</th>
+
+  47                      <?php 
+  48:                         $olist = $conn->query("SELECT o.*,p.product_name FROM order_list o inner join products p on o.product_id = p.id where o.order_id = '{$id}' ");
+  49                          while($row = $olist->fetch_assoc()):
+
+  53                          <td><?php echo $row['unit'] ?></td>
+  54:                         <td><?php echo $row['product_name'] ." ({$row['size']}) " ?></td>
+  55                          <td class="text-right"><?php echo number_format($row['price']) ?></td>
+
+admin/product/index.php:
+   7  	<div class="card-header">
+   8: 		<h3 class="card-title">List of Products</h3>
+   9  		<div class="card-tools">
+  10: 			<a href="?page=product/manage_product" class="btn btn-flat btn-primary"><span class="fas fa-plus"></span>  Create New</a>
+  11  		</div>
+
+  28  						<th>Date Created</th>
+  29: 						<th>Product</th>
+  30  						<th>Description</th>
+
+  37  					$i = 1;
+  38: 						$qry = $conn->query("SELECT * from `products` order by unix_timestamp(date_created) desc ");
+  39  						while($row = $qry->fetch_assoc()):
+
+  44  							<td><?php echo date("Y-m-d H:i",strtotime($row['date_created'])) ?></td>
+  45: 							<td><?php echo $row['product_name'] ?></td>
+  46  							<td ><p class="truncate-1 m-0"><?php echo $row['description'] ?></p></td>
+
+  59  				                  <div class="dropdown-menu" role="menu">
+  60: 				                    <a class="dropdown-item" href="?page=product/manage_product&id=<?php echo $row['id'] ?>"><span class="fa fa-edit text-primary"></span> Edit</a>
+  61  				                    <div class="dropdown-divider"></div>
+
+  75  		$('.delete_data').click(function(){
+  76: 			_conf("Are you sure to delete this product permanently?","delete_product",[$(this).attr('data-id')])
+  77  		})
+
+  79  	})
+  80: 	function delete_product($id){
+  81  		start_loader();
+  82  		$.ajax({
+  83: 			url:_base_url_+"classes/Master.php?f=delete_product",
+  84  			method:"POST",
+
+admin/product/manage_product.php:
+    2  if(isset($_GET['id']) && $_GET['id'] > 0){
+    3:     $qry = $conn->query("SELECT * from `products` where id = '{$_GET['id']}' ");
+    4      if($qry->num_rows > 0){
+
+   12  	<div class="card-header">
+   13: 		<h3 class="card-title"><?php echo isset($id) ? "Update ": "Create New " ?> Product</h3>
+   14  	</div>
+   15  	<div class="card-body">
+   16: 		<form action="" id="product-form">
+   17  			<input type="hidden" name ="id" value="<?php echo isset($id) ? $id : '' ?>">
+
+   43  			<div class="form-group">
+   44: 				<label for="product_name" class="control-label">Product Name</label>
+   45:                 <textarea name="product_name" id="" cols="30" rows="2" class="form-control form no-resize"><?php echo isset($product_name) ? $product_name : ''; ?></textarea>
+   46  			</div>
+
+   66              if(isset($id)):
+   67:             $upload_path = "uploads/product_".$id;
+   68              if(is_dir(base_app.$upload_path)): 
+
+   89  	<div class="card-footer">
+   90: 		<button class="btn btn-flat btn-primary" form="product-form">Save</button>
+   91: 		<a class="btn btn-flat btn-default" href="?page=product">Cancel</a>
+   92  	</div>
+
+  163          }
+  164: 		$('#product-form').submit(function(e){
+  165  			e.preventDefault();
+
+  169  			$.ajax({
+  170: 				url:_base_url_+"classes/Master.php?f=save_product",
+  171  				data: new FormData($(this)[0]),
+
+  184  					if(typeof resp =='object' && resp.status == 'success'){
+  185: 						location.href = "./?page=product";
+  186  					}else if(resp.status == 'failed' && !!resp.msg){
+
+assets/css/styles.css:
+  10659  
+  10660: .product-item>img {
+  10661      object-fit: cover;
+
+build/scss/_products.scss:
+   1  //
+   2: // Component: Products
+   3  //
+   4  
+   5: .products-list {
+   6    list-style: none;
+
+  21  
+  22:   .product-img {
+  23      float: left;
+
+  30  
+  31:   .product-info {
+  32      margin-left: 60px;
+
+  34  
+  35:   .product-title {
+  36      font-weight: 600;
+
+  38  
+  39:   .product-description {
+  40      color: $gray-600;
+
+  47  
+  48: .product-list-in-card > .item {
+  49    @include border-radius(0);
+
+  58  .dark-mode {
+  59:   .products-list > .item {
+  60      background-color: $dark;
+
+  64  
+  65:   .product-description {
+  66      color: $gray-400;
+
+build/scss/pages/_e-commerce.scss:
+   4  
+   5: // product image
+   6: .product-image {
+   7    @include img-fluid ();
+
+  10  
+  11: // product image thumbnails list
+  12: .product-image-thumbs {
+  13    align-items: stretch;
+
+  17  
+  18: // product image thumbnail
+  19: .product-image-thumb {
+  20    @include box-shadow($thumbnail-box-shadow);
+
+  39  
+  40: // product share
+  41: .product-share {
+  42    a {
+
+build/scss/parts/_extra-components.scss:
+  7  @import "../timeline";
+  8: @import "../products";
+  9  @import "../direct-chat";
+
+classes/Master.php:
+  130  	}
+  131: 	function save_product(){
+  132  		extract($_POST);
+
+  143  		}
+  144: 		$check = $this->conn->query("SELECT * FROM `products` where `product_name` = '{$product_name}' ".(!empty($id) ? " and id != {$id} " : "")." ")->num_rows;
+  145  		if($this->capture_err())
+
+  148  			$resp['status'] = 'failed';
+  149: 			$resp['msg'] = "Product already exist.";
+  150  			return json_encode($resp);
+
+  153  		if(empty($id)){
+  154: 			$sql = "INSERT INTO `products` set {$data} ";
+  155  			$save = $this->conn->query($sql);
+
+  157  		}else{
+  158: 			$sql = "UPDATE `products` set {$data} where id = '{$id}' ";
+  159  			$save = $this->conn->query($sql);
+
+  161  		if($save){
+  162: 			$upload_path = "uploads/product_".$id;
+  163  			if(!is_dir(base_app.$upload_path))
+
+  173  			if(empty($id))
+  174: 				$this->settings->set_flashdata('success',"New Product successfully saved.");
+  175  			else
+  176: 				$this->settings->set_flashdata('success',"Product successfully updated.");
+  177  		}else{
+
+  182  	}
+  183: 	function delete_product(){
+  184  		extract($_POST);
+  185: 		$del = $this->conn->query("DELETE FROM `products` where id = '{$id}'");
+  186  		if($del){
+  187  			$resp['status'] = 'success';
+  188: 			$this->settings->set_flashdata('success',"Product successfully deleted.");
+  189  		}else{
+
+  219  		}
+  220: 		$check = $this->conn->query("SELECT * FROM `inventory` where `product_id` = '{$product_id}' and `size` = '{$size}' ".(!empty($id) ? " and id != {$id} " : "")." ")->num_rows;
+  221  		if($this->capture_err())
+
+  408  			$data = '';
+  409: 			$cart = $this->conn->query("SELECT c.*,p.product_name,i.size,i.price,p.id as pid,i.unit from `cart` c inner join `inventory` i on i.id=c.inventory_id inner join products p on p.id = i.product_id where c.client_id ='{$client_id}' ");
+  410  			while($row= $cart->fetch_assoc()):
+
+  414  			endwhile;
+  415: 			$list_sql = "INSERT INTO `order_list` (order_id,product_id,size,unit,quantity,price,total) VALUES {$data} ";
+  416  			$save_olist = $this->conn->query($list_sql);
+
+  521  	break;
+  522: 	case 'save_product':
+  523: 		echo $Master->save_product();
+  524  	break;
+  525: 	case 'delete_product':
+  526: 		echo $Master->delete_product();
+  527  	break;
+
+database/pet_shop_db.sql:
+   92    `id` int(30) NOT NULL,
+   93    `id` int(30) NOT NULL,
+   94:   `product_id` int(30) NOT NULL,
+
+   94    `quantity` double NOT NULL,
+   95    `quantity` double NOT NULL,
+
+  105  
+  106  
+  107: INSERT INTO `inventory` (`id`, `product_id`, `quantity`, `unit`, `price`, `size`, `date_created`, `date_updated`) VALUES
+
+  107  (1, 1, 50, 'pcs', 250, 'M', '2021-06-21 13:01:30', '2021-06-21 13:05:23'),
+  108  (1, 1, 50, 'pcs', 250, 'M', '2021-06-21 13:01:30', '2021-06-21 13:05:23'),
+
+  150    `order_id` int(30) NOT NULL,
+  151    `order_id` int(30) NOT NULL,
+  152:   `product_id` int(30) NOT NULL,
+
+  152    `size` varchar(20) NOT NULL,
+  153    `size` varchar(20) NOT NULL,
+
+  162  
+  163  
+  164: INSERT INTO `order_list` (`id`, `order_id`, `product_id`, `size`, `unit`, `quantity`, `price`, `total`) VALUES
+
+  164  (1, 1, 4, 'L', 'pcs', 2, 550, 1100),
+  165  (1, 1, 4, 'L', 'pcs', 2, 550, 1100),
+
+  169  --
+  170  --
+  171: -- Table structure for table `products`
+
+  171  --
+  172  
+  173  
+  174: CREATE TABLE `products` (
+
+  174    `id` int(30) NOT NULL,
+  175    `id` int(30) NOT NULL,
+  176    `sub_category_id` int(30) NOT NULL,
+  177    `sub_category_id` int(30) NOT NULL,
+  178:   `product_name` varchar(250) NOT NULL,
+
+  178    `description` text NOT NULL,
+  179    `description` text NOT NULL,
+
+  183  --
+  184  --
+  185: -- Dumping data for table `products`
+
+  185  --
+  186  
+  187  
+  188: INSERT INTO `products` (`id`, `category_id`, `sub_category_id`, `product_name`, `description`, `status`, `date_created`) VALUES
+  189: (1, 1, 1, 'Dog Food 101', '&lt;p&gt;Sample Product&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin-right: 0px; margin-bottom: 15px; margin-left: 0px; padding: 0px;&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras dolor felis, mattis sit amet turpis eu, porta efficitur arcu. Ut orci est, posuere a mi sed, sollicitudin volutpat nisl. Vestibulum aliquam condimentum dictum. Sed a lobortis dolor, nec molestie nulla. Quisque purus justo, fermentum sed commodo in, hendrerit non nisi. In eleifend diam at pellentesque tempor. Mauris a augue ultrices, vulputate ipsum ac, lobortis eros. Nulla tempor odio sit amet magna finibus dignissim vitae eu turpis.&lt;/p&gt;&lt;p style=&quot;margin-right: 0px; margin-bottom: 15px; margin-left: 0px; padding: 0px;&quot;&gt;Proin nec semper nisi. Aenean varius purus at eros aliquam, non luctus eros interdum. Etiam non nisl ut lacus semper ornare sed iaculis justo. Mauris justo mauris, faucibus sit amet pharetra at, accumsan quis felis. Nulla gravida elementum porttitor. Vestibulum blan
+
+  189  (3, 1, 3, 'Cat Food 101', '&lt;p&gt;Cat Food 101&lt;/p&gt;&lt;p style=&quot;margin-right: 0px; margin-bottom: 15px; margin-left: 0px; padding: 0px;&quot;&gt;Sed interdum odio a efficitur volutpat. Etiam porta erat ut quam feugiat iaculis. Nam tincidunt sem metus, quis mattis nisl iaculis id. Aliquam vehicula auctor facilisis. Etiam tincidunt id velit sed pulvinar. Mauris mi est, varius in mauris ut, rhoncus congue nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Fusce mollis arcu mauris, tempor fermentum odio vehicula nec. Morbi sit amet dui mollis, sodales dolor vel, efficitur tortor. Nam vel pretium lectus. Morbi ultricies magna eget libero bibendum posuere. Ut ultrices tellus ac enim egestas feugiat.&lt;/p&gt;&lt;p style=&quot;margin-right: 0px; margin-bottom: 15px; margin-left: 0px; padding: 0px;&quot;&gt;Mauris faucibus, erat porta auctor porttitor, ligula leo ornare sem, eu dignissim diam massa a purus. Praesent et faucibus metus. Nulla iaculis enim nec efficitur consectetur. Sed vehicula purus neque, quis luctus odio varius non. Sed hendrerit leo et velit ultricies, eget venenatis elit ornare. Pellentesque nec tincidunt nunc. Donec fringilla tristique lectus, vitae malesuada massa mollis ut. Nulla eleifend ac ligula vel rutrum.&lt;/p&gt;', 1, '2021-06-21 16:48:16'),
+  190  (3, 1, 3, 'Cat Food 101', '&lt;p&gt;Cat Food 101&lt;/p&gt;&lt;p style=&quot;margin-right: 0px; margin-bottom: 15px; margin-left: 0px; padding: 0px;&quot;&gt;Sed interdum odio a efficitur volutpat. Etiam porta erat ut quam feugiat iaculis. Nam tincidunt sem metus, quis mattis nisl iaculis id. Aliquam vehicula auctor facilisis. Etiam tincidunt id velit sed pulvinar. Mauris mi est, varius in mauris ut, rhoncus congue nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Fusce mollis arcu mauris, tempor fermentum odio vehicula nec. Morbi sit amet dui mollis, sodales dolor vel, efficitur tortor. Nam vel pretium lectus. Morbi ultricies magna eget libero bibendum posuere. Ut ultrices tellus ac enim egestas feugiat.&lt;/p&gt;&lt;p style=&quot;margin-right: 0px; margin-bottom: 15px; margin-left: 0px; padding: 0px;&quot;&gt;Mauris faucibus, erat porta auctor porttitor, ligula leo ornare sem, eu dignissim diam massa a purus. Praesent et faucibus metus. Nulla iaculis enim nec efficitur consectetur. Sed vehicula purus neque, quis luctus odio varius non. Sed hendrerit leo et velit ultricies, eget venenatis elit ornare. Pellentesque nec tincidunt nunc. Donec fringilla tristique lectus, vitae malesuada massa mollis ut. Nulla eleifend ac ligula vel rutrum.&lt;/p&gt;', 1, '2021-06-21 16:48:16'),
+
+  354  --
+  355  --
+  356: -- Indexes for table `products`
+
+  356  --
+  357  --
+  358: ALTER TABLE `products`
+
+  358    ADD PRIMARY KEY (`id`);
+  359    ADD PRIMARY KEY (`id`);
+
+  430  --
+  431  --
+  432: -- AUTO_INCREMENT for table `products`
+
+  432  --
+  433  --
+  434: ALTER TABLE `products`
+  434    MODIFY `id` int(30) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=7;
+  435    MODIFY `id` int(30) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=7;
+
+dist/css/adminlte.css:
+  20951  
+  20952: .products-list {
+  20953    list-style: none;
+
+  20957  
+  20958: .products-list > .item {
+  20959    border-radius: 0.25rem;
+
+  20963  
+  20964: .products-list > .item::after {
+  20965    display: block;
+
+  20969  
+  20970: .products-list .product-img {
+  20971    float: left;
+
+  20973  
+  20974: .products-list .product-img img {
+  20975    height: 50px;
+
+  20978  
+  20979: .products-list .product-info {
+  20980    margin-left: 60px;
+
+  20982  
+  20983: .products-list .product-title {
+  20984    font-weight: 600;
+
+  20986  
+  20987: .products-list .product-description {
+  20988    color: #6c757d;
+
+  20994  
+  20995: .product-list-in-card > .item {
+  20996    border-radius: 0;
+
+  20999  
+  21000: .product-list-in-card > .item:last-of-type {
+  21001    border-bottom-width: 0;
+
+  21003  
+  21004: .dark-mode .products-list > .item {
+  21005    background-color: #343a40;
+
+  21009  
+  21010: .dark-mode .product-description {
+  21011    color: #ced4da;
+
+  22021  
+  22022: .product-image {
+  22023    max-width: 100%;
+
+  22027  
+  22028: .product-image-thumbs {
+  22029    -ms-flex-align: stretch;
+
+  22035  
+  22036: .product-image-thumb {
+  22037    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.075);
+
+  22047  
+  22048: .product-image-thumb img {
+  22049    max-width: 100%;
+
+  22054  
+  22055: .product-image-thumb:hover {
+  22056    opacity: .5;
+
+  22058  
+  22059: .product-share a {
+  22060    margin-right: .5rem;
+
+dist/css/adminlte.css.map:
+  1: ⟪ 5381 characters skipped ⟫_table.scss","../../build/scss/_carousel.scss","../../build/scss/_close.scss","../../build/scss/_small-box.scss","../../build/scss/_info-box.scss","../../build/scss/_timeline.scss","../../build/scss/_products.scss","../../build/scss/_direct-chat.scss","../../build/scss/mixins/_direct-chat.scss","../../build/scss/_users-list.scss","../../build/scss/_social-widgets.scss","../../build/scss/pages/_mailbox.scss","../../build/scss/pages/_lockscreen.scss","../../build/scss/pages/_login_and_register.scss","../../build/scss/pages/_404_500_errors.scss","../../build/scss/pages/_invoice.scss","../../build/scss/pages/_profile.scss","../../build/scss/pages/_e-commerce.scss","../../build/scss/pages/_projects.scss","../../build/scss/pages/_iframe.scss","../../build/scss/pages/_kanban.scss","../../build/scss/plugins/_fullcalendar.scss","../../build/scss/plugins/_select2.scss","../../build/scss/plugins/_mixins.scss","../../build/scss/plugins/_bootstrap-slider.scss","../../build/scss/plugins/_icheck-bootstrap.scss","../../build/scss/plugins/_mapael.scss","../../build/scss/plugins/_jqvmap.scss","../../build/scss/plugins/_sweetalert2.scss","../../build/scss/plugins/_toastr.scss","../../build/scss/plugi⟪ 770926 characters skipped ⟫\n\n.dark-mode .timeline > div > .timeline-item > .timeline-header {\n  color: #ced4da;\n  border-color: #6c757d;\n}\n\n.dark-mode .timeline > div > .timeline-item > .time {\n  color: #ced4da;\n}\n\n.products-list {\n  list-style: none;\n  margin: 0;\n  padding: 0;\n}\n\n.products-list > .item {\n  border-radius: 0.25rem;\n  background-color: #fff;\n  padding: 10px 0;\n}\n\n.products-list > .item::after {\n  display: block;\n  clear: both;\n  content: \"\";\n}\n\n.products-list .product-img {\n  float: left;\n}\n\n.products-list .product-img img {\n  height: 50px;\n  width: 50px;\n}\n\n.products-list .product-info {\n  margin-left: 60px;\n}\n\n.products-list .product-title {\n  font-weight: 600;\n}\n\n.products-list .product-description {\n  color: #6c757d;\n  display: block;\n  overflow: hidden;\n  text-overflow: ellipsis;\n  white-space: nowrap;\n}\n\n.product-list-in-card > .item {\n  border-radius: 0;\n  border-bottom: 1px solid rgba(0, 0, 0, 0.125);\n}\n\n.product-list-in-card > .item:last-of-type {\n  border-bottom-width: 0;\n}\n\n.dark-mode .products-list > .item {\n  background-color: #343a40;\n  color: #fff;\n  border-bottom-color: #6c757d;\n}\n\n.dark-mode .product-description {\n  color: #ced4da;\n}\n\n.direct-chat .card-body {\n  overflow-x: hidden;\n  padding: 0;\n  position: relative;\n}\n\n.direct-chat.chat-pane-open .direct-chat-contacts {\n  transform: translate(0, 0);\n}\n\n.direct-chat.timestamp-light .direct-chat-timestamp {\n  color: #30465f;\n}\n\n.direct-chat.timestamp-dark .direct-chat-timestamp {\n  color: #cccccc;\n}\n\n.direct-chat-messages {\n  transform: translate(0, 0);\n  height: 250px;\n  overflow: auto;\n  padding: 10px;\n}\n\n.direct-chat-msg,\n.direct-chat-text {\n  display: block;\n}\n\n.direct-chat-msg {\n  margin-bottom: 10px;\n}\n\n.direct-chat-msg::after {\n  display: block;\n  clear: both;\n  content: \"\";\n}\n\n.direct-chat-messages,\n.direct-chat-contacts {\n  transition: transform .5s ease-in-out;\n}\n\n.direct-chat-text {\n  border-radius: 0.3rem;\n  background-color: #d2d6de;\n  border: 1px solid #d2d6de;\n  color: #444;\n  margin: 5px 0 0 50px;\n  padding: 5px 10px;\n  position: relative;\n}\n\n.direc⟪ 19194 characters skipped ⟫0;\n  padding-bottom: 0;\n}\n\n.post .user-block {\n  margin-bottom: 15px;\n  width: 100%;\n}\n\n.post .row {\n  width: 100%;\n}\n\n.dark-mode .post {\n  color: #fff;\n  border-color: #6c757d;\n}\n\n.product-image {\n  max-width: 100%;\n  height: auto;\n  width: 100%;\n}\n\n.product-image-thumbs {\n  align-items: stretch;\n  display: flex;\n  margin-top: 2rem;\n}\n\n.product-image-thumb {\n  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.075);\n  border-radius: 0.25rem;\n  background-color: #fff;\n  border: 1px solid #dee2e6;\n  display: flex;\n  margin-right: 1rem;\n  max-width: 7rem;\n  padding: 0.5rem;\n}\n\n.product-image-thumb img {\n  max-width: 100%;\n  height: auto;\n  align-self: center;\n}\n\n.product-image-thumb:hover {\n  opacity: .5;\n}\n\n.product-share a {\n  margin-right: .5rem;\n}\n\n.projects td {\n  vertical-align: middle;\n}\n\n.projects .list-inline {\n  margin-bottom: 0;\n}\n\n.projects img.table-avatar,\n.projects .table-avatar img {\n  border-radius: 50%;\n  display: inline;\n  width: 2.5rem;\n}\n\n.projects .project-state {\n  text-align: center;\n}\n\nbody.iframe-mode .main-sidebar {\n  display: none;\n}\n\nbody.iframe-mode .content-wrapper {\n  margin-left: 0 !important;\n  margin-top: 0 !important;\n  padding-bottom: 0 !important;\n}\n\nbody.iframe-mode .main-header,\nbody.iframe-mode .main-footer {\n  display: none;\n}\n\nbody.iframe-mode-fullscreen {\n  overflow: hidden;\n}\n\n.content-wrapper {\n  height: 100%;\n}\n\n.content-wrapper.iframe-mode .navbar-nav {\n  overflow-y: auto;\n  width: 100%;\n}\n\n.content-wrapper.iframe-mode .navbar-nav .nav-link {\n  white-space: nowrap;\n}\n\n.content-wrapper.iframe-mode .tab-content {\n  position: relative;\n}\n\n.content-wrapper.iframe-mode .tab-empty {\n  width⟪ 711074 characters skipped ⟫gray-600;\n\n      > .timeline-header {\n        color: $gray-400;\n        border-color: $gray-600;\n      }\n      > .time {\n        color: $gray-400;\n      }\n    }\n  }\n}\n","//\n// Component: Products\n//\n\n.products-list {\n  list-style: none;\n  margin: 0;\n  padding: 0;\n\n  > .item {\n    @include clearfix ();\n\n    @if $enable-rounded {\n      @include border-radius($border-radius);\n    }\n\n    background-color: $white;\n    padding: 10px 0;\n\n  }\n\n  .product-img {\n    float: left;\n\n    img {\n      height: 50px;\n      width: 50px;\n    }\n  }\n\n  .product-info {\n    margin-left: 60px;\n  }\n\n  .product-title {\n    font-weight: 600;\n  }\n\n  .product-description {\n    color: $gray-600;\n    display: block;\n    overflow: hidden;\n    text-overflow: ellipsis;\n    white-space: nowrap;\n  }\n}\n\n.product-list-in-card > .item {\n  @include border-radius(0);\n  border-bottom: 1px solid $card-border-color;\n\n  &:last-of-type {\n    border-bottom-width: 0;\n  }\n}\n\n\n.dark-mode {\n  .products-list > .item {\n    background-color: $dark;\n    color: $white;\n    border-bottom-color: $gray-600;\n  }\n\n  .product-description {\n    color: $gray-400;\n  }\n}\n","//\n// Component: Direct Chat\n//\n\n.direct-chat {\n  .card-body {\n    overflow-x: hidden;\n    padding: 0;\n    position: relative;\n  }\n\n  &.chat-pane-open {\n    .direct-chat-contacts {\n      @include translate(0, 0);\n    }\n  }\n\n\n  &.timestamp-light {\n    .direct-chat-timestamp {\n      color: lighten(color-yiq($yiq-text-light), 10%);\n    }\n  }\n\n  &.timestamp-dark {\n    .direct-chat-timestamp {\n      color: darken(color-yiq($yiq-text-dark), 20%);\n    }\n  }\n}\n\n.direct-chat-messages {\n  @include translate(0, 0);\n  height: 250px;\n  overflow: auto;\n  padding: 10px;\n}\n\n.direct-chat-msg,\n.direct-chat-text {\n  display: block;\n}\n\n.direct-chat-msg {\n  @include clearfix ();\n  margin-bottom: 10px;\n}\n\n.direct-chat-messages,\n.direct-chat-contacts {\n  transition: transform .5s ease-in-out;\n}\n\n.direct-chat-text {\n  @if $enable-rounded {\n    @include border-radius($border-radius-lg);\n  }\n\n  bac⟪ 12340 characters skipped ⟫-bottom: 15px;\n    width: 100%;\n  }\n\n  .row {\n    width: 100%;\n  }\n}\n\n.dark-mode {\n  .post {\n    color: $white;\n    border-color: $gray-600;\n  }\n}\n","//\n// Pages: E-commerce\n//\n\n// product image\n.product-image {\n  @include img-fluid ();\n  width: 100%;\n}\n\n// product image thumbnails list\n.product-image-thumbs {\n  align-items: stretch;\n  display: flex;\n  margin-top: 2rem;\n}\n\n// product image thumbnail\n.product-image-thumb {\n  @include box-shadow($thumbnail-box-shadow);\n  @include border-radius($thumbnail-border-radius);\n\n  background-color: $thumbnail-bg;\n  border: $thumbnail-border-width solid $thumbnail-border-color;\n  display: flex;\n  margin-right: 1rem;\n  max-width: 6.5rem + ($thumbnail-padding * 2);\n  padding: $thumbnail-padding * 2;\n\n  img {\n    @include img-fluid ();\n    align-self: center;\n  }\n\n  &:hover {\n    opacity: .5;\n  }\n}\n\n// product share\n.product-share {\n  a {\n    margin-right: .5rem;\n  }\n}\n","//\n// Pages: Projects\n//\n\n.projects {\n  td {\n    vertical-align: middle;\n  }\n\n  .list-inline {\n    margin-bottom: 0;\n  }\n\n  // table avatar\n  img.table-avatar,\n  .table-avatar img {\n    border-radius: 50%;\n    display: inline;\n    width: 2.5rem;\n  }\n\n  // project state\n  .project-state {\n    text-align: center;\n  }\n}\n","body.iframe-mode {\n  .main-sidebar {\n    display: none;\n  }\n  .content-wrapper {\n    margin-left: 0 !important;\n    margin-top: 0 !important;\n    padding-bottom: 0 !important;\n  }\n  .main-header,\n  .main-footer {\n    display: none;\n  }\n}\n\nbody.iframe-mode-fullscreen {\n  overflow: hidden;\n}\n\n.content-wrapper {\n  height: 100%;\n\n  &.iframe-mode {\n    .navbar-nav {\n      overflow-y: auto;\n      width: 100%;\n\n      .nav-link {\n        white-space: nowrap;\n      }\n    }\n    .tab-content {\n      position: relative;\n    }\n    .tab-empty {\n      width: 100%;\
+
+dist/css/adminlte.min.css:
+  10   * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
+  11: ⟪ 432702 characters skipped ⟫-color:#343a40;color:#fff;border-color:#6c757d}.dark-mode .timeline>div>.timeline-item>.timeline-header{color:#ced4da;border-color:#6c757d}.dark-mode .timeline>div>.timeline-item>.time{color:#ced4da}.products-list{list-style:none;margin:0;padding:0}.products-list>.item{border-radius:.25rem;background-color:#fff;padding:10px 0}.products-list>.item::after{display:block;clear:both;content:""}.products-list .product-img{float:left}.products-list .product-img img{height:50px;width:50px}.products-list .product-info{margin-left:60px}.products-list .product-title{font-weight:600}.products-list .product-description{color:#6c757d;display:block;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.product-list-in-card>.item{border-radius:0;border-bottom:1px solid rgba(0,0,0,.125)}.product-list-in-card>.item:last-of-type{border-bottom-width:0}.dark-mode .products-list>.item{background-color:#343a40;color:#fff;border-bottom-color:#6c757d}.dark-mode .product-description{color:#ced4da}.direct-chat .card-body{overflow-x:hidden;padding:0;position:relative}.direct-chat.chat-pane-open .direct-chat-contacts{transform:translate(0,0)}.direct-chat.timestamp-light .direct-chat-timestamp{color:#30465f}.direct-chat.timestamp-dark .direct-chat-timestamp{color:#ccc}.direct-chat-messages{transform:translate(0,0);height:250px;overflow:auto;padding:10px}.direct-chat-msg,.direct-chat-text{display:block}.direct-chat-msg{margin-bottom:10px}.direct-chat-msg::after{display:block;clear:both;content:""}.direct-chat-contacts,.direct-chat-messages{transition:transform .5s ease-in-out}.direct-chat-text{border-radius:.3rem;background-color:#d2d6de;border:1px solid #d2d6de;color:#444;margin:5px 0 0 50px;padding:5px 10px;position:relative}.direct-chat-text::after,.direct-chat-text::before{border:solid transparent;border-right-color:#d2d6de;content:" ";height:0;pointer-events:none;position:absolute;right:100%;top:15px;width:0}.direct-chat-text::after{border-widt⟪ 15324 characters skipped ⟫bottom:15px}.post:last-of-type{border-bottom:0;margin-bottom:0;padding-bottom:0}.post .user-block{margin-bottom:15px;width:100%}.post .row{width:100%}.dark-mode .post{color:#fff;border-color:#6c757d}.product-image{max-width:100%;height:auto;width:100%}.product-image-thumbs{-ms-flex-align:stretch;align-items:stretch;display:-ms-flexbox;display:flex;margin-top:2rem}.product-image-thumb{box-shadow:0 1px 2px rgba(0,0,0,.075);border-radius:.25rem;background-color:#fff;border:1px solid #dee2e6;display:-ms-flexbox;display:flex;margin-right:1rem;max-width:7rem;padding:.5rem}.product-image-thumb img{max-width:100%;height:auto;-ms-flex-item-align:center;align-self:center}.product-image-thumb:hover{opacity:.5}.product-share a{margin-right:.5rem}.projects td{vertical-align:middle}.projects .list-inline{margin-bottom:0}.projects .table-avatar img,.projects img.table-avatar{border-radius:50%;display:inline;width:2.5rem}.projects .project-state{text-align:center}body.iframe-mode .main-sidebar{display:none}body.iframe-mode .content-wrapper{margin-left:0!important;margin-top:0!important;padding-bottom:0!important}body.iframe-mode .main-footer,body.iframe-mode .main-header{display:none}body.iframe-mode-fullscreen{overflow:hidden}.content-wrapper{height:100%}.content-wrapper.iframe-mode .navbar-nav{overflow-y:auto;width:100%}.content-wrapper.iframe-mode .navbar-nav .nav-link{white-space:nowrap}.content-wrapper.iframe-mode .tab-content{position:relative}.content-wrapper.iframe-mode .tab-empty{width:100%;display:-ms-flexbox;display:flex;-ms-flex-pack:center;justify-content:center;-ms-flex-align:center;align-items:center}.content-wrapper.iframe-mode .tab-loading{position:absolute;top:0;left:0;width:100
+  12  /*# sourceMappingURL=adminlte.min.css.map */
+
+dist/css/adminlte.min.css.map:
+  1: ⟪ 5221 characters skipped ⟫_table.scss","../../build/scss/_carousel.scss","../../build/scss/_close.scss","../../build/scss/_small-box.scss","../../build/scss/_info-box.scss","../../build/scss/_timeline.scss","../../build/scss/_products.scss","../../build/scss/_direct-chat.scss","../../build/scss/mixins/_direct-chat.scss","../../build/scss/_users-list.scss","../../build/scss/_social-widgets.scss","../../build/scss/pages/_mailbox.scss","../../build/scss/pages/_lockscreen.scss","../../build/scss/pages/_login_and_register.scss","../../build/scss/pages/_404_500_errors.scss","../../build/scss/pages/_invoice.scss","../../build/scss/pages/_profile.scss","../../build/scss/pages/_e-commerce.scss","../../build/scss/pages/_projects.scss","../../build/scss/pages/_iframe.scss","../../build/scss/pages/_kanban.scss","../../build/scss/plugins/_fullcalendar.scss","../../build/scss/plugins/_select2.scss","../../build/scss/plugins/_mixins.scss","../../build/scss/plugins/_bootstrap-slider.scss","../../build/scss/plugins/_icheck-bootstrap.scss","../../build/scss/plugins/_mapael.scss","../../build/scss/plugins/_jqvmap.scss","../../build/scss/plugins/_sweetalert2.scss","../../build/scss/plugins/_toastr.scss","../../build/scss/plugi⟪ 764056 characters skipped ⟫\n\n.dark-mode .timeline > div > .timeline-item > .timeline-header {\n  color: #ced4da;\n  border-color: #6c757d;\n}\n\n.dark-mode .timeline > div > .timeline-item > .time {\n  color: #ced4da;\n}\n\n.products-list {\n  list-style: none;\n  margin: 0;\n  padding: 0;\n}\n\n.products-list > .item {\n  border-radius: 0.25rem;\n  background-color: #fff;\n  padding: 10px 0;\n}\n\n.products-list > .item::after {\n  display: block;\n  clear: both;\n  content: \"\";\n}\n\n.products-list .product-img {\n  float: left;\n}\n\n.products-list .product-img img {\n  height: 50px;\n  width: 50px;\n}\n\n.products-list .product-info {\n  margin-left: 60px;\n}\n\n.products-list .product-title {\n  font-weight: 600;\n}\n\n.products-list .product-description {\n  color: #6c757d;\n  display: block;\n  overflow: hidden;\n  text-overflow: ellipsis;\n  white-space: nowrap;\n}\n\n.product-list-in-card > .item {\n  border-radius: 0;\n  border-bottom: 1px solid rgba(0, 0, 0, 0.125);\n}\n\n.product-list-in-card > .item:last-of-type {\n  border-bottom-width: 0;\n}\n\n.dark-mode .products-list > .item {\n  background-color: #343a40;\n  color: #fff;\n  border-bottom-color: #6c757d;\n}\n\n.dark-mode .product-description {\n  color: #ced4da;\n}\n\n.direct-chat .card-body {\n  overflow-x: hidden;\n  padding: 0;\n  position: relative;\n}\n\n.direct-chat.chat-pane-open .direct-chat-contacts {\n  transform: translate(0, 0);\n}\n\n.direct-chat.timestamp-light .direct-chat-timestamp {\n  color: #30465f;\n}\n\n.direct-chat.timestamp-dark .direct-chat-timestamp {\n  color: #cccccc;\n}\n\n.direct-chat-messages {\n  transform: translate(0, 0);\n  height: 250px;\n  overflow: auto;\n  padding: 10px;\n}\n\n.direct-chat-msg,\n.direct-chat-text {\n  display: block;\n}\n\n.direct-chat-msg {\n  margin-bottom: 10px;\n}\n\n.direct-chat-msg::after {\n  display: block;\n  clear: both;\n  content: \"\";\n}\n\n.direct-chat-messages,\n.direct-chat-contacts {\n  transition: transform .5s ease-in-out;\n}\n\n.direct-chat-text {\n  border-radius: 0.3rem;\n  background-color: #d2d6de;\n  border: 1px solid #d2d6de;\n  color: #444;\n  margin: 5px 0 0 50px;\n  padding: 5px 10px;\n  position: relative;\n}\n\n.direc⟪ 19303 characters skipped ⟫0;\n  padding-bottom: 0;\n}\n\n.post .user-block {\n  margin-bottom: 15px;\n  width: 100%;\n}\n\n.post .row {\n  width: 100%;\n}\n\n.dark-mode .post {\n  color: #fff;\n  border-color: #6c757d;\n}\n\n.product-image {\n  max-width: 100%;\n  height: auto;\n  width: 100%;\n}\n\n.product-image-thumbs {\n  -ms-flex-align: stretch;\n  align-items: stretch;\n  display: -ms-flexbox;\n  display: flex;\n  margin-top: 2rem;\n}\n\n.product-image-thumb {\n  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.075);\n  border-radius: 0.25rem;\n  background-color: #fff;\n  border: 1px solid #dee2e6;\n  display: -ms-flexbox;\n  display: flex;\n  margin-right: 1rem;\n  max-width: 7rem;\n  padding: 0.5rem;\n}\n\n.product-image-thumb img {\n  max-width: 100%;\n  height: auto;\n  -ms-flex-item-align: center;\n  align-self: center;\n}\n\n.product-image-thumb:hover {\n  opacity: .5;\n}\n\n.product-share a {\n  margin-right: .5rem;\n}\n\n.projects td {\n  vertical-align: middle;\n}\n\n.projects .list-inline {\n  margin-bottom: 0;\n}\n\n.projects img.table-avatar,\n.projects .table-avatar img {\n  border-radius: 50%;\n  display: inline;\n  width: 2.5rem;\n}\n\n.projects .project-state {\n  text-align: center;\n}\n\nbody.iframe-mode .main-sidebar {\n  display: none;\n}\n\nbody.iframe-mode .content-wrapper {\n  margin-left: 0 !important;\n  margin-top: 0 !important;\n  padding-bottom: 0 !important;\n}\n\nbody.iframe-mode .main-header,\nbody.iframe-mode .main-footer {\n  display: none;\n}\n\nbody.iframe-mode-fullscreen {\n  overflow: hidden;\n}\n\n.content-wrapper {\n  height: 100%;\n}\n\n.content-wrapper.iframe-mode .navbar-nav {\n  overflow-y: auto;\n  width: 100%;\n}\n\n.content-wrapper.iframe-mode .navbar-nav .nav-link {\n  white-space: nowrap;\n}\n\n.content-wrapper.iframe-mode .tab-content {\n  position: relative;\n}\n\n.content-wrapper.iframe-mode .tab-empty {\n  width⟪ 839760 characters skipped ⟫\n\n.dark-mode .timeline > div > .timeline-item > .timeline-header {\n  color: #ced4da;\n  border-color: #6c757d;\n}\n\n.dark-mode .timeline > div > .timeline-item > .time {\n  color: #ced4da;\n}\n\n.products-list {\n  list-style: none;\n  margin: 0;\n  padding: 0;\n}\n\n.products-list > .item {\n  border-radius: 0.25rem;\n  background-color: #fff;\n  padding: 10px 0;\n}\n\n.products-list > .item::after {\n  display: block;\n  clear: both;\n  content: \"\";\n}\n\n.products-list .product-img {\n  float: left;\n}\n\n.products-list .product-img img {\n  height: 50px;\n  width: 50px;\n}\n\n.products-list .product-info {\n  margin-left: 60px;\n}\n\n.products-list .product-title {\n  font-weight: 600;\n}\n\n.products-list .product-description {\n  color: #6c757d;\n  display: block;\n  overflow: hidden;\n  text-overflow: ellipsis;\n  white-space: nowrap;\n}\n\n.product-list-in-card > .item {\n  border-radius: 0;\n  border-bottom: 1px solid rgba(0, 0, 0, 0.125);\n}\n\n.product-list-in-card > .item:last-of-type {\n  border-bottom-width: 0;\n}\n\n.dark-mode .products-list > .item {\n  background-color: #343a40;\n  color: #fff;\n  border-bottom-color: #6c757d;\n}\n\n.dark-mode .product-description {\n  color: #ced4da;\n}\n\n.direct-chat .card-body {\n  overflow-x: hidden;\n  padding: 0;\n  position: relative;\n}\n\n.direct-chat.chat-pane-open .direct-chat-contacts {\n  transform: translate(0, 0);\n}\n\n.direct-chat.timestamp-light .direct-chat-timestamp {\n  color: #30465f;\n}\n\n.direct-chat.timestamp-dark .direct-chat-timestamp {\n  color: #cccccc;\n}\n\n.direct-chat-messages {\n  transform: translate(0, 0);\n  height: 250px;\n  overflow: auto;\n  padding: 10px;\n}\n\n.direct-chat-msg,\n.direct-chat-text {\n  display: block;\n}\n\n.direct-chat-msg {\n  margin-bottom: 10px;\n}\n\n.direct-chat-msg::after {\n  display: block;\n  clear: both;\n  content: \"\";\n}\n\n.direct-chat-messages,\n.direct-chat-contacts {\n  transition: transform .5s ease-in-out;\n}\n\n.direct-chat-text {\n  border-radius: 0.3rem;\n  background-color: #d2d6de;\n  border: 1px solid #d2d6de;\n  color: #444;\n  margin: 5px 0 0 50px;\n  padding: 5px 10px;\n  position: relative;\n}\n\n.direc⟪ 19194 characters skipped ⟫0;\n  padding-bottom: 0;\n}\n\n.post .user-block {\n  margin-bottom: 15px;\n  width: 100%;\n}\n\n.post .row {\n  width: 100%;\n}\n\n.dark-mode .post {\n  color: #fff;\n  border-color: #6c757d;\n}\n\n.product-image {\n  max-width: 100%;\n  height: auto;\n  width: 100%;\n}\n\n.product-image-thumbs {\n  align-items: stretch;\n  display: flex;\n  margin-top: 2rem;\n}\n\n.product-image-thumb {\n  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.075);\n  border-radius: 0.25rem;\n  background-color: #fff;\n  border: 1px solid #dee2e6;\n  display: flex;\n  margin-right: 1rem;\n  max-width: 7rem;\n  padding: 0.5rem;\n}\n\n.product-image-thumb img {\n  max-width: 100%;\n  height: auto;\n  align-self: center;\n}\n\n.product-image-thumb:hover {\n  opacity: .5;\n}\n\n.product-share a {\n  margin-right: .5rem;\n}\n\n.projects td {\n  vertical-align: middle;\n}\n\n.projects .list-inline {\n  margin-bottom: 0;\n}\n\n.projects img.table-avatar,\n.projects .table-avatar img {\n  border-radius: 50%;\n  display: inline;\n  width: 2.5rem;\n}\n\n.projects .project-state {\n  text-align: center;\n}\n\nbody.iframe-mode .main-sidebar {\n  display: none;\n}\n\nbody.iframe-mode .content-wrapper {\n  margin-left: 0 !important;\n  margin-top: 0 !important;\n  padding-bottom: 0 !important;\n}\n\nbody.iframe-mode .main-header,\nbody.iframe-mode .main-footer {\n  display: none;\n}\n\nbody.iframe-mode-fullscreen {\n  overflow: hidden;\n}\n\n.content-wrapper {\n  height: 100%;\n}\n\n.content-wrapper.iframe-mode .navbar-nav {\n  overflow-y: auto;\n  width: 100%;\n}\n\n.content-wrapper.iframe-mode .navbar-nav .nav-link {\n  white-space: nowrap;\n}\n\n.content-wrapper.iframe-mode .tab-content {\n  position: relative;\n}\n\n.content-wrapper.iframe-mode .tab-empty {\n  width⟪ 588936 characters skipped ⟫gray-600;\n\n      > .timeline-header {\n        color: $gray-400;\n        border-color: $gray-600;\n      }\n      > .time {\n        color: $gray-400;\n      }\n    }\n  }\n}\n","//\n// Component: Products\n//\n\n.products-list {\n  list-style: none;\n  margin: 0;\n  padding: 0;\n\n  > .item {\n    @include clearfix ();\n\n    @if $enable-rounded {\n      @include border-radius($border-radius);\n    }\n\n    background-color: $white;\n    padding: 10px 0;\n\n  }\n\n  .product-img {\n    float: left;\n\n    img {\n      height: 50px;\n      width: 50px;\n    }\n  }\n\n  .product-info {\n    margin-left: 60px;\n  }\n\n  .product-title {\n    font-weight: 600;\n  }\n\n  .product-description {\n    color: $gray-600;\n    display: block;\n    overflow: hidden;\n    text-overflow: ellipsis;\n    white-space: nowrap;\n  }\n}\n\n.product-list-in-card > .item {\n  @include border-radius(0);\n  border-bottom: 1px solid $card-border-color;\n\n  &:last-of-type {\n    border-bottom-width: 0;\n  }\n}\n\n\n.dark-mode {\n  .products-list > .item {\n    background-color: $dark;\n    color: $white;\n    border-bottom-color: $gray-600;\n  }\n\n  .product-description {\n    color: $gray-400;\n  }\n}\n","//\n// Component: Direct Chat\n//\n\n.direct-chat {\n  .card-body {\n    overflow-x: hidden;\n    padding: 0;\n    position: relative;\n  }\n\n  &.chat-pane-open {\n    .direct-chat-contacts {\n      @include translate(0, 0);\n    }\n  }\n\n\n  &.timestamp-light {\n    .direct-chat-timestamp {\n      color: lighten(color-yiq($yiq-text-light), 10%);\n    }\n  }\n\n  &.timestamp-dark {\n    .direct-chat-timestamp {\n      color: darken(color-yiq($yiq-text-dark), 20%);\n    }\n  }\n}\n\n.direct-chat-messages {\n  @include translate(0, 0);\n  height: 250px;\n  overflow: auto;\n  padding: 10px;\n}\n\n.direct-chat-msg,\n.direct-chat-text {\n  display: block;\n}\n\n.direct-chat-msg {\n  @include clearfix ();\n  margin-bottom: 10px;\n}\n\n.direct-chat-messages,\n.direct-chat-contacts {\n  transition: transform .5s ease-in-out;\n}\n\n.direct-chat-text {\n  @if $enable-rounded {\n    @include border-radius($border-radius-lg);\n  }\n\n  bac⟪ 12340 characters skipped ⟫-bottom: 15px;\n    width: 100%;\n  }\n\n  .row {\n    width: 100%;\n  }\n}\n\n.dark-mode {\n  .post {\n    color: $white;\n    border-color: $gray-600;\n  }\n}\n","//\n// Pages: E-commerce\n//\n\n// product image\n.product-image {\n  @include img-fluid ();\n  width: 100%;\n}\n\n// product image thumbnails list\n.product-image-thumbs {\n  align-items: stretch;\n  display: flex;\n  margin-top: 2rem;\n}\n\n// product image thumbnail\n.product-image-thumb {\n  @include box-shadow($thumbnail-box-shadow);\n  @include border-radius($thumbnail-border-radius);\n\n  background-color: $thumbnail-bg;\n  border: $thumbnail-border-width solid $thumbnail-border-color;\n  display: flex;\n  margin-right: 1rem;\n  max-width: 6.5rem + ($thumbnail-padding * 2);\n  padding: $thumbnail-padding * 2;\n\n  img {\n    @include img-fluid ();\n    align-self: center;\n  }\n\n  &:hover {\n    opacity: .5;\n  }\n}\n\n// product share\n.product-share {\n  a {\n    margin-right: .5rem;\n  }\n}\n","//\n// Pages: Projects\n//\n\n.projects {\n  td {\n    vertical-align: middle;\n  }\n\n  .list-inline {\n    margin-bottom: 0;\n  }\n\n  // table avatar\n  img.table-avatar,\n  .table-avatar img {\n    border-radius: 50%;\n    display: inline;\n    width: 2.5rem;\n  }\n\n  // project state\n  .project-state {\n    text-align: center;\n  }\n}\n","body.iframe-mode {\n  .main-sidebar {\n    display: none;\n  }\n  .content-wrapper {\n    margin-left: 0 !important;\n    margin-top: 0 !important;\n    padding-bottom: 0 !important;\n  }\n  .main-header,\n  .main-footer {\n    display: none;\n  }\n}\n\nbody.iframe-mode-fullscreen {\n  overflow: hidden;\n}\n\n.content-wrapper {\n  height: 100%;\n\n  &.iframe-mode {\n    .navbar-nav {\n      overflow-y: auto;\n      width: 100%;\n\n      .nav-link {\n        white-space: nowrap;\n      }\n    }\n    .tab-content {\n      position: relative;\n    }\n    .tab-empty {\n      width: 100%;\
+
+dist/css/alt/adminlte.extra-components.css:
+  479  
+  480: .products-list {
+  481    list-style: none;
+
+  485  
+  486: .products-list > .item {
+  487    border-radius: 0.25rem;
+
+  491  
+  492: .products-list > .item::after {
+  493    display: block;
+
+  497  
+  498: .products-list .product-img {
+  499    float: left;
+
+  501  
+  502: .products-list .product-img img {
+  503    height: 50px;
+
+  506  
+  507: .products-list .product-info {
+  508    margin-left: 60px;
+
+  510  
+  511: .products-list .product-title {
+  512    font-weight: 600;
+
+  514  
+  515: .products-list .product-description {
+  516    color: #6c757d;
+
+  522  
+  523: .product-list-in-card > .item {
+  524    border-radius: 0;
+
+  527  
+  528: .product-list-in-card > .item:last-of-type {
+  529    border-bottom-width: 0;
+
+  531  
+  532: .dark-mode .products-list > .item {
+  533    background-color: #343a40;
+
+  537  
+  538: .dark-mode .product-description {
+  539    color: #ced4da;
+
+dist/css/alt/adminlte.extra-components.css.map:
+  1: ⟪ 384 characters skipped ⟫odules/bootstrap/scss/vendor/_rfs.scss","../../../node_modules/bootstrap/scss/mixins/_breakpoints.scss","../../../build/scss/_info-box.scss","../../../build/scss/_timeline.scss","../../../build/scss/_products.scss","../../../node_modules/bootstrap/scss/mixins/_clearfix.scss","../../../build/scss/_direct-chat.scss","../../../build/scss/mixins/_miscellaneous.scss","../../../node_modules/bootstrap/scss/mixins/_lists.scss","../../../build/scss/mixins/_direct-chat.scss","../../../build/scss/_users-list.scss","../../../build/scss/_social-widgets.scss"],"names":[],"mappings":"AAAA;;;;;;ECME;ACFF;ECcI,sBCmMgC;ECrM9B,sEC4IgE;EJpJpE,cAAc;EACd,mBAAmB;EACnB,kBAAkB;ADGpB;;ACTA;EAUI,aAAa;ADGjB;;ACbA;EAcI,oCEGW;EFFX,+BERW;EFSX,cAAc;EACd,cAAc;EACd,kBAAkB;EAClB,kBAAkB;EAClB,qBAAqB;EACrB,WAAW;ADGf;;ACxBA;EAwBM,qCEPS;EFQT,WElBS;AHsBf;;AC7BA;EK2HM,iBAtCY;ELtDd,gBAAgB;EAChB,gBAAgB;EAChB,UAAU;EACV,mBAAmB;ADGvB;;AOmBI;ENlBA;;;IKqFE,iBAtCY;ENzChB;ECEE;;;IK6EE,iBAtCY;ENpChB;AACF;;AOMI;ENAA;;;IKmEE,iBAtCY;EN5BhB;ECOE;;;IK2DE,iBAtCY;ENvBhB;AACF;;AC/DA;EA0EI,eAAe;ADPnB;;ACnEA;EA6EM,cErEY;EFsEZ,cAAc;EACd,gBAAgB;EAChB,eAAe;ADNrB;;AC1EA;;EAsFI,UAAU;ADPd;;AC/EA;EA2FI,0BE1EW;EF2EX,UAAU;ADRd;;ACpFA;EA+FM,eAAe;EACf,⟪ 18507 characters skipped ⟫\n\n.dark-mode .timeline > div > .timeline-item > .timeline-header {\n  color: #ced4da;\n  border-color: #6c757d;\n}\n\n.dark-mode .timeline > div > .timeline-item > .time {\n  color: #ced4da;\n}\n\n.products-list {\n  list-style: none;\n  margin: 0;\n  padding: 0;\n}\n\n.products-list > .item {\n  border-radius: 0.25rem;\n  background-color: #fff;\n  padding: 10px 0;\n}\n\n.products-list > .item::after {\n  display: block;\n  clear: both;\n  content: \"\";\n}\n\n.products-list .product-img {\n  float: left;\n}\n\n.products-list .product-img img {\n  height: 50px;\n  width: 50px;\n}\n\n.products-list .product-info {\n  margin-left: 60px;\n}\n\n.products-list .product-title {\n  font-weight: 600;\n}\n\n.products-list .product-description {\n  color: #6c757d;\n  display: block;\n  overflow: hidden;\n  text-overflow: ellipsis;\n  white-space: nowrap;\n}\n\n.product-list-in-card > .item {\n  border-radius: 0;\n  border-bottom: 1px solid rgba(0, 0, 0, 0.125);\n}\n\n.product-list-in-card > .item:last-of-type {\n  border-bottom-width: 0;\n}\n\n.dark-mode .products-list > .item {\n  background-color: #343a40;\n  color: #fff;\n  border-bottom-color: #6c757d;\n}\n\n.dark-mode .product-description {\n  color: #ced4da;\n}\n\n.direct-chat .card-body {\n  overflow-x: hidden;\n  padding: 0;\n  position: relative;\n}\n\n.direct-chat.chat-pane-open .direct-chat-contacts {\n  transform: translate(0, 0);\n}\n\n.direct-chat.timestamp-light .direct-chat-timestamp {\n  color: #30465f;\n}\n\n.direct-chat.timestamp-dark .direct-chat-timestamp {\n  color: #cccccc;\n}\n\n.direct-chat-messages {\n  transform: translate(0, 0);\n  height: 250px;\n  overflow: auto;\n  padding: 10px;\n}\n\n.direct-chat-msg,\n.direct-chat-text {\n  display: block;\n}\n\n.direct-chat-msg {\n  margin-bottom: 10px;\n}\n\n.direct-chat-msg::after {\n  display: block;\n  clear: both;\n  content: \"\";\n}\n\n.direct-chat-messages,\n.direct-chat-contacts {\n  transition: transform .5s ease-in-out;\n}\n\n.direct-chat-text {\n  border-radius: 0.3rem;\n  background-color: #d2d6de;\n  border: 1px solid #d2d6de;\n  color: #444;\n  margin: 5px 0 0 50px;\n  padding: 5px 10px;\n  position: relative;\n}\n\n.direc⟪ 81894 characters skipped ⟫gray-600;\n\n      > .timeline-header {\n        color: $gray-400;\n        border-color: $gray-600;\n      }\n      > .time {\n        color: $gray-400;\n      }\n    }\n  }\n}\n","//\n// Component: Products\n//\n\n.products-list {\n  list-style: none;\n  margin: 0;\n  padding: 0;\n\n  > .item {\n    @include clearfix ();\n\n    @if $enable-rounded {\n      @include border-radius($border-radius);\n    }\n\n    background-color: $white;\n    padding: 10px 0;\n\n  }\n\n  .product-img {\n    float: left;\n\n    img {\n      height: 50px;\n      width: 50px;\n    }\n  }\n\n  .product-info {\n    margin-left: 60px;\n  }\n\n  .product-title {\n    font-weight: 600;\n  }\n\n  .product-description {\n    color: $gray-600;\n    display: block;\n    overflow: hidden;\n    text-overflow: ellipsis;\n    white-space: nowrap;\n  }\n}\n\n.product-list-in-card > .item {\n  @include border-radius(0);\n  border-bottom: 1px solid $card-border-color;\n\n  &:last-of-type {\n    border-bottom-width: 0;\n  }\n}\n\n\n.dark-mode {\n  .products-list > .item {\n    background-color: $dark;\n    color: $white;\n    border-bottom-color: $gray-600;\n  }\n\n  .product-description {\n    color: $gray-400;\n  }\n}\n","@mixin clearfix() {\n  &::after {\n    display: block;\n    clear: both;\n    content: \"\";\n  }\n}\n","//\n// Component: Direct Chat\n//\n\n.direct-chat {\n  .card-body {\n    overflow-x: hidden;\n    padding: 0;\n    position: relative;\n  }\n\n  &.chat-pane-open {\n    .direct-chat-contacts {\n      @include translate(0, 0);\n    }\n  }\n\n\n  &.timestamp-light {\n    .direct-chat-timestamp {\n      color: lighten(color-yiq($yiq-text-light), 10%);\n    }\n  }\n\n  &.timestamp-dark {\n    .direct-chat-timestamp {\n      color: darken(color-yiq($yiq-text-dark), 20%);\n    }\n  }\n}\n\n.direct-chat-messages {\n  @include translate(0, 0);\n  height: 250px;\n  overflow: auto;\n  padding: 10px;\n}\n\n.direct-chat-msg,\n.direct-chat-text {\n  display: block;\n}\n\n.direct-chat-msg {\n  @include clearfix ();\n  margin-bottom: 10px;\n}\n\n.direct-chat-messages,\n.direct-chat-contacts {\n  transition: transform .5s ease-in-out;\n}\n\n.
+
+dist/css/alt/adminlte.extra-components.min.css:
+  6   *   License: Open source - MIT <https://opensource.org/licenses/MIT>
+  7: ⟪ 7743 characters skipped ⟫-color:#343a40;color:#fff;border-color:#6c757d}.dark-mode .timeline>div>.timeline-item>.timeline-header{color:#ced4da;border-color:#6c757d}.dark-mode .timeline>div>.timeline-item>.time{color:#ced4da}.products-list{list-style:none;margin:0;padding:0}.products-list>.item{border-radius:.25rem;background-color:#fff;padding:10px 0}.products-list>.item::after{display:block;clear:both;content:""}.products-list .product-img{float:left}.products-list .product-img img{height:50px;width:50px}.products-list .product-info{margin-left:60px}.products-list .product-title{font-weight:600}.products-list .product-description{color:#6c757d;display:block;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.product-list-in-card>.item{border-radius:0;border-bottom:1px solid rgba(0,0,0,.125)}.product-list-in-card>.item:last-of-type{border-bottom-width:0}.dark-mode .products-list>.item{background-color:#343a40;color:#fff;border-bottom-color:#6c757d}.dark-mode .product-description{color:#ced4da}.direct-chat .card-body{overflow-x:hidden;padding:0;position:relative}.direct-chat.chat-pane-open .direct-chat-contacts{transform:translate(0,0)}.direct-chat.timestamp-light .direct-chat-timestamp{color:#30465f}.direct-chat.timestamp-dark .direct-chat-timestamp{color:#ccc}.direct-chat-messages{transform:translate(0,0);height:250px;overflow:auto;padding:10px}.direct-chat-msg,.direct-chat-text{display:block}.direct-chat-msg{margin-bottom:10px}.direct-chat-msg::after{display:block;clear:both;content:""}.direct-chat-contacts,.direct-chat-messages{transition:transform .5s ease-in-out}.direct-chat-text{border-radius:.3rem;background-color:#d2d6de;border:1px solid #d2d6de;color:#444;margin:5px 0 0 50px;padding:5px 10px;position:relative}.direct-chat-text::after,.direct-chat-text::before{border:solid transparent;border-right-color:#d2d6de;content:" ";height:0;pointer-events:none;position:absolute;right:100%;top:15px;width:0}.direct-chat-text::after{border-widt
+  8  /*# sourceMappingURL=adminlte.extra-components.min.css.map */
+
+dist/css/alt/adminlte.extra-components.min.css.map:
+  1: ⟪ 311 characters skipped ⟫./../node_modules/bootstrap/scss/mixins/_breakpoints.scss","dist/css/alt/adminlte.extra-components.css","../../../build/scss/_info-box.scss","../../../build/scss/_timeline.scss","../../../build/scss/_products.scss","../../../node_modules/bootstrap/scss/mixins/_clearfix.scss","../../../build/scss/_direct-chat.scss","../../../build/scss/mixins/_miscellaneous.scss","../../../node_modules/bootstrap/scss/mixins/_lists.scss","../../../build/scss/mixins/_direct-chat.scss","../../../build/scss/_users-list.scss","../../../build/scss/_social-widgets.scss"],"names":[],"mappings":"AAAA;;;;;;ACIA,WCcI,cAAA,OCFE,WAAA,EAAA,EAAA,IAAA,gBAAA,CAAA,EAAA,IAAA,IAAA,eFRJ,QAAA,MACA,cAAA,KACA,SAAA,SANF,kBAUI,QAAA,KAVJ,6BAcI,iBAAA,eACA,MAAA,qBACA,QAAA,MACA,QAAA,IAAA,EACA,SAAA,SACA,WAAA,OACA,gBAAA,KACA,QAAA,GArBJ,mCAwBM,iBAAA,gBACA,MAAA,KAzBN,cG2HM,UAAA,OH5FF,YAAA,IACA,OAAA,EAAA,EAAA,KACA,QAAA,EACA,YAAA,OIsBA,yBCfF,wBACA,wBLJE,wBGqFE,UAAA,OE7EJ,wBACA,wBLDE,wBG6EE,UAAA,QCnEF,0BCFF,wBACA,wBLCE,wBGmEE,UAAA,OEhEJ,wBACA,wBLIE,wBG2DE,UAAA,QH3HN,aA0EI,UAAA,KA1EJ,mBA6EM,MAAA,QACA,QAAA,MACA,UAAA,MACA,WAAA,IAhFN,cK6EA,aLSI,QAAA,EAtFJ,iBA2FI,MAAA,gBACA,QAAA,EA5FJ,mBA+FM,UAAA,KACA,SAAA,SACA,MAAA,KACA,IAAA,KACA,WAAA,UAAA⟪ 33638 characters skipped ⟫\n\n.dark-mode .timeline > div > .timeline-item > .timeline-header {\n  color: #ced4da;\n  border-color: #6c757d;\n}\n\n.dark-mode .timeline > div > .timeline-item > .time {\n  color: #ced4da;\n}\n\n.products-list {\n  list-style: none;\n  margin: 0;\n  padding: 0;\n}\n\n.products-list > .item {\n  border-radius: 0.25rem;\n  background-color: #fff;\n  padding: 10px 0;\n}\n\n.products-list > .item::after {\n  display: block;\n  clear: both;\n  content: \"\";\n}\n\n.products-list .product-img {\n  float: left;\n}\n\n.products-list .product-img img {\n  height: 50px;\n  width: 50px;\n}\n\n.products-list .product-info {\n  margin-left: 60px;\n}\n\n.products-list .product-title {\n  font-weight: 600;\n}\n\n.products-list .product-description {\n  color: #6c757d;\n  display: block;\n  overflow: hidden;\n  text-overflow: ellipsis;\n  white-space: nowrap;\n}\n\n.product-list-in-card > .item {\n  border-radius: 0;\n  border-bottom: 1px solid rgba(0, 0, 0, 0.125);\n}\n\n.product-list-in-card > .item:last-of-type {\n  border-bottom-width: 0;\n}\n\n.dark-mode .products-list > .item {\n  background-color: #343a40;\n  color: #fff;\n  border-bottom-color: #6c757d;\n}\n\n.dark-mode .product-description {\n  color: #ced4da;\n}\n\n.direct-chat .card-body {\n  overflow-x: hidden;\n  padding: 0;\n  position: relative;\n}\n\n.direct-chat.chat-pane-open .direct-chat-contacts {\n  transform: translate(0, 0);\n}\n\n.direct-chat.timestamp-light .direct-chat-timestamp {\n  color: #30465f;\n}\n\n.direct-chat.timestamp-dark .direct-chat-timestamp {\n  color: #cccccc;\n}\n\n.direct-chat-messages {\n  transform: translate(0, 0);\n  height: 250px;\n  overflow: auto;\n  padding: 10px;\n}\n\n.direct-chat-msg,\n.direct-chat-text {\n  display: block;\n}\n\n.direct-chat-msg {\n  margin-bottom: 10px;\n}\n\n.direct-chat-msg::after {\n  display: block;\n  clear: both;\n  content: \"\";\n}\n\n.direct-chat-messages,\n.direct-chat-contacts {\n  transition: transform .5s ease-in-out;\n}\n\n.direct-chat-text {\n  border-radius: 0.3rem;\n  background-color: #d2d6de;\n  border: 1px solid #d2d6de;\n  color: #444;\n  margin: 5px 0 0 50px;\n  padding: 5px 10px;\n  position: relative;\n}\n\n.direc⟪ 17685 characters skipped ⟫gray-600;\n\n      > .timeline-header {\n        color: $gray-400;\n        border-color: $gray-600;\n      }\n      > .time {\n        color: $gray-400;\n      }\n    }\n  }\n}\n","//\n// Component: Products\n//\n\n.products-list {\n  list-style: none;\n  margin: 0;\n  padding: 0;\n\n  > .item {\n    @include clearfix ();\n\n    @if $enable-rounded {\n      @include border-radius($border-radius);\n    }\n\n    background-color: $white;\n    padding: 10px 0;\n\n  }\n\n  .product-img {\n    float: left;\n\n    img {\n      height: 50px;\n      width: 50px;\n    }\n  }\n\n  .product-info {\n    margin-left: 60px;\n  }\n\n  .product-title {\n    font-weight: 600;\n  }\n\n  .product-description {\n    color: $gray-600;\n    display: block;\n    overflow: hidden;\n    text-overflow: ellipsis;\n    white-space: nowrap;\n  }\n}\n\n.product-list-in-card > .item {\n  @include border-radius(0);\n  border-bottom: 1px solid $card-border-color;\n\n  &:last-of-type {\n    border-bottom-width: 0;\n  }\n}\n\n\n.dark-mode {\n  .products-list > .item {\n    background-color: $dark;\n    color: $white;\n    border-bottom-color: $gray-600;\n  }\n\n  .product-description {\n    color: $gray-400;\n  }\n}\n","@mixin clearfix() {\n  &::after {\n    display: block;\n    clear: both;\n    content: \"\";\n  }\n}\n","//\n// Component: Direct Chat\n//\n\n.direct-chat {\n  .card-body {\n    overflow-x: hidden;\n    padding: 0;\n    position: relative;\n  }\n\n  &.chat-pane-open {\n    .direct-chat-contacts {\n      @include translate(0, 0);\n    }\n  }\n\n\n  &.timestamp-light {\n    .direct-chat-timestamp {\n      color: lighten(color-yiq($yiq-text-light), 10%);\n    }\n  }\n\n  &.timestamp-dark {\n    .direct-chat-timestamp {\n      color: darken(color-yiq($yiq-text-dark), 20%);\n    }\n  }\n}\n\n.direct-chat-messages {\n  @include translate(0, 0);\n  height: 250px;\n  overflow: auto;\n  padding: 10px;\n}\n\n.direct-chat-msg,\n.direct-chat-text {\n  display: block;\n}\n\n.direct-chat-msg {\n  @include clearfix ();\n  margin-bottom: 10px;\n}\n\n.direct-chat-messages,\n.direct-chat-contacts {\n  transition: transform .5s ease-in-out;\n}\n\n.
+
+dist/css/alt/adminlte.pages.css:
+  437  
+  438: .product-image {
+  439    max-width: 100%;
+
+  443  
+  444: .product-image-thumbs {
+  445    -ms-flex-align: stretch;
+
+  451  
+  452: .product-image-thumb {
+  453    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.075);
+
+  463  
+  464: .product-image-thumb img {
+  465    max-width: 100%;
+
+  470  
+  471: .product-image-thumb:hover {
+  472    opacity: .5;
+
+  474  
+  475: .product-share a {
+  476    margin-right: .5rem;
+
+dist/css/alt/adminlte.pages.css.map:
+  1: ⟪ 14471 characters skipped ⟫0;\n  padding-bottom: 0;\n}\n\n.post .user-block {\n  margin-bottom: 15px;\n  width: 100%;\n}\n\n.post .row {\n  width: 100%;\n}\n\n.dark-mode .post {\n  color: #fff;\n  border-color: #6c757d;\n}\n\n.product-image {\n  max-width: 100%;\n  height: auto;\n  width: 100%;\n}\n\n.product-image-thumbs {\n  align-items: stretch;\n  display: flex;\n  margin-top: 2rem;\n}\n\n.product-image-thumb {\n  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.075);\n  border-radius: 0.25rem;\n  background-color: #fff;\n  border: 1px solid #dee2e6;\n  display: flex;\n  margin-right: 1rem;\n  max-width: 7rem;\n  padding: 0.5rem;\n}\n\n.product-image-thumb img {\n  max-width: 100%;\n  height: auto;\n  align-self: center;\n}\n\n.product-image-thumb:hover {\n  opacity: .5;\n}\n\n.product-share a {\n  margin-right: .5rem;\n}\n\n.projects td {\n  vertical-align: middle;\n}\n\n.projects .list-inline {\n  margin-bottom: 0;\n}\n\n.projects img.table-avatar,\n.projects .table-avatar img {\n  border-radius: 50%;\n  display: inline;\n  width: 2.5rem;\n}\n\n.projects .project-state {\n  text-align: center;\n}\n\nbody.iframe-mode .main-sidebar {\n  display: none;\n}\n\nbody.iframe-mode .content-wrapper {\n  margin-left: 0 !important;\n  margin-top: 0 !important;\n  padding-bottom: 0 !important;\n}\n\nbody.iframe-mode .main-header,\nbody.iframe-mode .main-footer {\n  display: none;\n}\n\nbody.iframe-mode-fullscreen {\n  overflow: hidden;\n}\n\n.content-wrapper {\n  height: 100%;\n}\n\n.content-wrapper.iframe-mode .navbar-nav {\n  overflow-y: auto;\n  width: 100%;\n}\n\n.content-wrapper.iframe-mode .navbar-nav .nav-link {\n  white-space: nowrap;\n}\n\n.content-wrapper.iframe-mode .tab-content {\n  position: relative;\n}\n\n.content-wrapper.iframe-mode .tab-empty {\n  width⟪ 61383 characters skipped ⟫-bottom: 15px;\n    width: 100%;\n  }\n\n  .row {\n    width: 100%;\n  }\n}\n\n.dark-mode {\n  .post {\n    color: $white;\n    border-color: $gray-600;\n  }\n}\n","//\n// Pages: E-commerce\n//\n\n// product image\n.product-image {\n  @include img-fluid ();\n  width: 100%;\n}\n\n// product image thumbnails list\n.product-image-thumbs {\n  align-items: stretch;\n  display: flex;\n  margin-top: 2rem;\n}\n\n// product image thumbnail\n.product-image-thumb {\n  @include box-shadow($thumbnail-box-shadow);\n  @include border-radius($thumbnail-border-radius);\n\n  background-color: $thumbnail-bg;\n  border: $thumbnail-border-width solid $thumbnail-border-color;\n  display: flex;\n  margin-right: 1rem;\n  max-width: 6.5rem + ($thumbnail-padding * 2);\n  padding: $thumbnail-padding * 2;\n\n  img {\n    @include img-fluid ();\n    align-self: center;\n  }\n\n  &:hover {\n    opacity: .5;\n  }\n}\n\n// product share\n.product-share {\n  a {\n    margin-right: .5rem;\n  }\n}\n","// Image Mixins\n// - Responsive image\n// - Retina image\n\n\n// Responsive image\n//\n// Keep images from scaling beyond the width of their parents.\n\n@mixin img-fluid() {\n  // Part 1: Set a maximum relative to the parent\n  max-width: 100%;\n  // Part 2: Override the height to auto, otherwise images will be stretched\n  // when setting a width and height attribute on the img element.\n  height: auto;\n}\n\n\n// Retina image\n//\n// Short retina mixin for setting background-image and -size.\n\n@mixin img-retina($file-1x, $file-2x, $width-1x, $height-1x) {\n  background-image: url($file-1x);\n\n  // Autoprefixer takes care of adding -webkit-min-device-pixel-ratio and -o-min-device-pixel-ratio,\n  // but doesn't convert dppx=>dpi.\n  // There's no such thing as unprefixed min-device-pixel-ratio since it's nonstandard.\n  // Compatibility info: https://caniuse.com/#feat=css-media-resolution\n  @media only screen and (min-res
+
+dist/css/alt/adminlte.pages.min.css:
+  6   *   License: Open source - MIT <https://opensource.org/licenses/MIT>
+  7: ⟪ 6253 characters skipped ⟫bottom:15px}.post:last-of-type{border-bottom:0;margin-bottom:0;padding-bottom:0}.post .user-block{margin-bottom:15px;width:100%}.post .row{width:100%}.dark-mode .post{color:#fff;border-color:#6c757d}.product-image{max-width:100%;height:auto;width:100%}.product-image-thumbs{-ms-flex-align:stretch;align-items:stretch;display:-ms-flexbox;display:flex;margin-top:2rem}.product-image-thumb{box-shadow:0 1px 2px rgba(0,0,0,.075);border-radius:.25rem;background-color:#fff;border:1px solid #dee2e6;display:-ms-flexbox;display:flex;margin-right:1rem;max-width:7rem;padding:.5rem}.product-image-thumb img{max-width:100%;height:auto;-ms-flex-item-align:center;align-self:center}.product-image-thumb:hover{opacity:.5}.product-share a{margin-right:.5rem}.projects td{vertical-align:middle}.projects .list-inline{margin-bottom:0}.projects .table-avatar img,.projects img.table-avatar{border-radius:50%;display:inline;width:2.5rem}.projects .project-state{text-align:center}body.iframe-mode .main-sidebar{display:none}body.iframe-mode .content-wrapper{margin-left:0!important;margin-top:0!important;padding-bottom:0!important}body.iframe-mode .main-footer,body.iframe-mode .main-header{display:none}body.iframe-mode-fullscreen{overflow:hidden}.content-wrapper{height:100%}.content-wrapper.iframe-mode .navbar-nav{overflow-y:auto;width:100%}.content-wrapper.iframe-mode .navbar-nav .nav-link{white-space:nowrap}.content-wrapper.iframe-mode .tab-content{position:relative}.content-wrapper.iframe-mode .tab-empty{width:100%;display:-ms-flexbox;display:flex;-ms-flex-pack:center;justify-content:center;-ms-flex-align:center;align-items:center}.content-wrapper.iframe-mode .tab-loading{position:absolute;top:0;left:0;width:100
+  8  /*# sourceMappingURL=adminlte.pages.min.css.map */
+
+dist/css/alt/adminlte.pages.min.css.map:
+  1: ⟪ 23718 characters skipped ⟫0;\n  padding-bottom: 0;\n}\n\n.post .user-block {\n  margin-bottom: 15px;\n  width: 100%;\n}\n\n.post .row {\n  width: 100%;\n}\n\n.dark-mode .post {\n  color: #fff;\n  border-color: #6c757d;\n}\n\n.product-image {\n  max-width: 100%;\n  height: auto;\n  width: 100%;\n}\n\n.product-image-thumbs {\n  -ms-flex-align: stretch;\n  align-items: stretch;\n  display: -ms-flexbox;\n  display: flex;\n  margin-top: 2rem;\n}\n\n.product-image-thumb {\n  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.075);\n  border-radius: 0.25rem;\n  background-color: #fff;\n  border: 1px solid #dee2e6;\n  display: -ms-flexbox;\n  display: flex;\n  margin-right: 1rem;\n  max-width: 7rem;\n  padding: 0.5rem;\n}\n\n.product-image-thumb img {\n  max-width: 100%;\n  height: auto;\n  -ms-flex-item-align: center;\n  align-self: center;\n}\n\n.product-image-thumb:hover {\n  opacity: .5;\n}\n\n.product-share a {\n  margin-right: .5rem;\n}\n\n.projects td {\n  vertical-align: middle;\n}\n\n.projects .list-inline {\n  margin-bottom: 0;\n}\n\n.projects img.table-avatar,\n.projects .table-avatar img {\n  border-radius: 50%;\n  display: inline;\n  width: 2.5rem;\n}\n\n.projects .project-state {\n  text-align: center;\n}\n\nbody.iframe-mode .main-sidebar {\n  display: none;\n}\n\nbody.iframe-mode .content-wrapper {\n  margin-left: 0 !important;\n  margin-top: 0 !important;\n  padding-bottom: 0 !important;\n}\n\nbody.iframe-mode .main-header,\nbody.iframe-mode .main-footer {\n  display: none;\n}\n\nbody.iframe-mode-fullscreen {\n  overflow: hidden;\n}\n\n.content-wrapper {\n  height: 100%;\n}\n\n.content-wrapper.iframe-mode .navbar-nav {\n  overflow-y: auto;\n  width: 100%;\n}\n\n.content-wrapper.iframe-mode .navbar-nav .nav-link {\n  white-space: nowrap;\n}\n\n.content-wrapper.iframe-mode .tab-content {\n  position: relative;\n}\n\n.content-wrapper.iframe-mode .tab-empty {\n  width⟪ 13720 characters skipped ⟫-bottom: 15px;\n    width: 100%;\n  }\n\n  .row {\n    width: 100%;\n  }\n}\n\n.dark-mode {\n  .post {\n    color: $white;\n    border-color: $gray-600;\n  }\n}\n","//\n// Pages: E-commerce\n//\n\n// product image\n.product-image {\n  @include img-fluid ();\n  width: 100%;\n}\n\n// product image thumbnails list\n.product-image-thumbs {\n  align-items: stretch;\n  display: flex;\n  margin-top: 2rem;\n}\n\n// product image thumbnail\n.product-image-thumb {\n  @include box-shadow($thumbnail-box-shadow);\n  @include border-radius($thumbnail-border-radius);\n\n  background-color: $thumbnail-bg;\n  border: $thumbnail-border-width solid $thumbnail-border-color;\n  display: flex;\n  margin-right: 1rem;\n  max-width: 6.5rem + ($thumbnail-padding * 2);\n  padding: $thumbnail-padding * 2;\n\n  img {\n    @include img-fluid ();\n    align-self: center;\n  }\n\n  &:hover {\n    opacity: .5;\n  }\n}\n\n// product share\n.product-share {\n  a {\n    margin-right: .5rem;\n  }\n}\n","// Image Mixins\n// - Responsive image\n// - Retina image\n\n\n// Responsive image\n//\n// Keep images from scaling beyond the width of their parents.\n\n@mixin img-fluid() {\n  // Part 1: Set a maximum relative to the parent\n  max-width: 100%;\n  // Part 2: Override the height to auto, otherwise images will be stretched\n  // when setting a width and height attribute on the img element.\n  height: auto;\n}\n\n\n// Retina image\n//\n// Short retina mixin for setting background-image and -size.\n\n@mixin img-retina($file-1x, $file-2x, $width-1x, $height-1x) {\n  background-image: url($file-1x);\n\n  // Autoprefixer takes care of adding -webkit-min-device-pixel-ratio and -o-min-device-pixel-ratio,\n  // but doesn't convert dppx=>dpi.\n  // There's no such thing as unprefixed min-device-pixel-ratio since it's nonstandard.\n  // Compatibility info: https://caniuse.com/#feat=css-media-resolution\n  @media only screen and (min-res
+
+dist/js/demo.js:
+  3   * ------------------
+  4:  * You should not use this file in production.
+  5   * This file is for demo purposes only.
+
+inc/topBarNav.php:
+  25                          ?>
+  26:                         <li class="nav-item"><a class="nav-link" aria-current="page" href="./?p=products&c=<?php echo md5($crow['id']) ?>"><?php echo $crow['category'] ?></a></li>
+  27                          
+
+  32                                <?php while($srow = $sub_qry->fetch_assoc()): ?>
+  33:                                 <li><a class="dropdown-item border-bottom" href="./?p=products&c=<?php echo md5($crow['id']) ?>&s=<?php echo md5($srow['id']) ?>"><?php echo $srow['sub_category'] ?></a></li>
+  34                              <?php endwhile; ?>
+
+  84       if(sTxt != '')
+  85:       location.href = './?p=products&search='+sTxt;
+  86    })
+
+plugins/codemirror/mode/apl/apl.js:
+  15    var builtInOps = {
+  16:     ".": "innerProduct",
+  17      "\\": "scan",
+
+plugins/codemirror/mode/clike/clike.js:
+  583        "Iterator List Map Numeric Nil NotNull Option Ordered Ordering PartialFunction PartialOrdering " +
+  584:       "Product Proxy Range Responder Seq Serializable Set Specializable Stream StringBuilder " +
+  585        "StringContext Symbol Throwable Traversable TraversableOnce Tuple Unit Vector " +
+
+  757                  "gl_Point gl_FrontMaterial gl_BackMaterial gl_LightSource gl_LightModel " +
+  758:                 "gl_FrontLightModelProduct gl_BackLightModelProduct " +
+  759                  "gl_TextureColor gl_EyePlaneS gl_EyePlaneT gl_EyePlaneR gl_EyePlaneQ " +
+
+plugins/codemirror/mode/fortran/fortran.js:
+  65                            "dlog", "dmax", "dmin", "dmod", "dnint",
+  66:                           "dot_product", "dprod", "dsign", "dsinh",
+  67                            "dsin", "dsqrt", "dtanh", "dtan", "dtime",
+
+  89                            "nearest", "new_line", "nint", "not", "or", "pack",
+  90:                           "perror", "precision", "present", "product", "radix",
+  91                            "rand", "random_number", "random_seed", "range",
+
+plugins/codemirror/mode/haskell/haskell.js:
+  226        "minimum", "mod", "negate", "not", "notElem", "null", "odd", "or",
+  227:       "otherwise", "pi", "pred", "print", "product", "properFraction", "pure",
+  228        "putChar", "putStr", "putStrLn", "quot", "quotRem", "read", "readFile",
+
+plugins/codemirror/mode/idl/idl.js:
+  142      'pref_commit', 'pref_get', 'pref_set', 'prewitt', 'primes',
+  143:     'print', 'printf', 'printd', 'pro', 'product',
+  144      'profile', 'profiler', 'profiles', 'project_vol', 'ps_show_fonts',
+
+plugins/codemirror/mode/nsis/nsis.js:
+  33      // Runtime Commands
+  34: ⟪ 2310 characters skipped ⟫SpaceTexts|StrCmp|StrCmpS|StrCpy|StrLen|SubCaption|Unicode|UninstallButtonText|UninstallCaption|UninstallIcon|UninstallSubCaption|UninstallText|UninstPage|UnRegDLL|Var|VIAddVersionKey|VIFileVersion|VIProductVersion|WindowIcon|WriteINIStr|WriteRegBin|WriteRegDWORD|WriteRegExpandStr|WriteRegMultiStr|WriteRegNone|WriteRegStr|WriteUninstaller|XPStyle)\b/, token: "keyword"},
+  35      {regex: /^\s*(?:Function|PageEx|Section(?:Group)?)\b/, token: "keyword", indent: true},
+
+plugins/flot/plugins/jquery.flot.browser.js:
+  28  
+  29:          This function returns the current pixel ratio defined by the product of desktop
+  30           zoom and page zoom.
+
+plugins/fontawesome-free/css/all.css:
+  3149  
+  3150: .fa-product-hunt:before {
+  3151    content: "\f288"; }
+
+plugins/fontawesome-free/css/all.min.css:
+  4   */
+  5: ⟪ 39774 characters skipped ⟫ion:before{content:"\f5b1"}.fa-prescription-bottle:before{content:"\f485"}.fa-prescription-bottle-alt:before{content:"\f486"}.fa-print:before{content:"\f02f"}.fa-procedures:before{content:"\f487"}.fa-product-hunt:before{content:"\f288"}.fa-project-diagram:before{content:"\f542"}.fa-pump-medical:before{content:"\e06a"}.fa-pump-soap:before{content:"\e06b"}.fa-pushed:before{content:"\f3e1"}.fa-puzzle-piece:before{content:"\f12e"}.fa-python:before{content:"\f3e2"}.fa-qq:before{content:"\f1d6"}.fa-qrcode:before{content:"\f029"}.fa-question:before{content:"\f128"}.fa-question-circle:before{content:"\f059"}.fa-quidditch:before{content:"\f458"}.fa-quinscape:before{content:"\f459"}.fa-quora:before{content:"\f2c4"}.fa-quote-left:before{content:"\f10d"}.fa-quote-right:before{content:"\f10e"}.fa-quran:before{content:"\f687"}.fa-r-project:before{content:"\f4f7"}.fa-radiation:before{content:"\f7b9"}.fa-radiation-alt:before{content:"\f7ba"}.fa-rainbow:before{content:"\f75b"}.fa-random:before{content:"\f074"}.fa-raspberry-pi:before{content:"\f7bb"}.fa-ravelry:before{content:"\f2d9"}.fa-react:before{content:"\f41b"}.fa-reacteurope:before{content:"\f75d"}.fa-readme:before{content:"\f4d5"}.fa-rebel:b
+
+plugins/fontawesome-free/css/fontawesome.css:
+  3149  
+  3150: .fa-product-hunt:before {
+  3151    content: "\f288"; }
+
+plugins/fontawesome-free/css/fontawesome.min.css:
+  4   */
+  5: ⟪ 39774 characters skipped ⟫ion:before{content:"\f5b1"}.fa-prescription-bottle:before{content:"\f485"}.fa-prescription-bottle-alt:before{content:"\f486"}.fa-print:before{content:"\f02f"}.fa-procedures:before{content:"\f487"}.fa-product-hunt:before{content:"\f288"}.fa-project-diagram:before{content:"\f542"}.fa-pump-medical:before{content:"\e06a"}.fa-pump-soap:before{content:"\e06b"}.fa-pushed:before{content:"\f3e1"}.fa-puzzle-piece:before{content:"\f12e"}.fa-python:before{content:"\f3e2"}.fa-qq:before{content:"\f1d6"}.fa-qrcode:before{content:"\f029"}.fa-question:before{content:"\f128"}.fa-question-circle:before{content:"\f059"}.fa-quidditch:before{content:"\f458"}.fa-quinscape:before{content:"\f459"}.fa-quora:before{content:"\f2c4"}.fa-quote-left:before{content:"\f10d"}.fa-quote-right:before{content:"\f10e"}.fa-quran:before{content:"\f687"}.fa-r-project:before{content:"\f4f7"}.fa-radiation:before{content:"\f7b9"}.fa-radiation-alt:before{content:"\f7ba"}.fa-rainbow:before{content:"\f75b"}.fa-random:before{content:"\f074"}.fa-raspberry-pi:before{content:"\f7bb"}.fa-ravelry:before{content:"\f2d9"}.fa-react:before{content:"\f41b"}.fa-reacteurope:before{content:"\f75d"}.fa-readme:before{content:"\f4d5"}.fa-rebel:b
+
+plugins/fontawesome-free/css/v4-shims.css:
+  1842  
+  1843: .fa.fa-product-hunt {
+  1844    font-family: 'Font Awesome 5 Brands';
+
+plugins/fontawesome-free/css/v4-shims.min.css:
+  4   */
+  5: ⟪ 22415 characters skipped ⟫-fonticons,.fa.fa-reddit-alien{font-family:"Font Awesome 5 Brands";font-weight:400}.fa.fa-credit-card-alt:before{content:"\f09d"}.fa.fa-codiepie,.fa.fa-fort-awesome,.fa.fa-mixcloud,.fa.fa-modx,.fa.fa-product-hunt,.fa.fa-scribd,.fa.fa-usb{font-family:"Font Awesome 5 Brands";font-weight:400}.fa.fa-pause-circle-o{font-family:"Font Awesome 5 Free";font-weight:400}.fa.fa-pause-circle-o:before{content:"\f28b"}.fa.fa-stop-circle-o{font-family:"Font Awesome 5 Free";font-weight:400}.fa.fa-stop-circle-o:before{content:"\f28d"}.fa.fa-bluetooth,.fa.fa-bluetooth-b,.fa.fa-envira,.fa.fa-gitlab,.fa.fa-wheelchair-alt,.fa.fa-wpbeginner,.fa.fa-wpforms{font-family:"Font Awesome 5 Brands";font-weight:400}.fa.fa-wheelchair-alt:before{content:"\f368"}.fa.fa-question-circle-o{font-family:"Font Awesome 5 Free";font-weight:400}.fa.fa-question-circle-o:before{content:"\f059"}.fa.fa-volume-control-phone:before{content:"\f2a0"}.fa.fa-asl-interpreting:before{content:"\f2a3"}.fa.fa-deafness:before,.fa.fa-hard-of-hearing:before{content:"\f2a4"}.fa.fa-glide,.fa.fa-glide-g{font-family:"Font Awesome 5 Brands";font-weight:400}.fa.fa-signing:before{content:"\f2a7"}.fa.fa-first-order,.fa.fa-google-plus-official,.fa.fa-
+
+plugins/fontawesome-free/webfonts/fa-brands-400.svg:
+  1111  c-29.0996 0 -44.2998 -67.4004 -69.5996 -106.9h310.1v35.6006c0 3.2998 1.7002 6.09961 4.5 7.7998s6.40039 1.40039 8.90039 -0.299805l89.0996 -53.5c2.7998 -1.10059 4.5 -4.10059 4.5 -7.2002z" />
+  1112:     <glyph glyph-name="product-hunt" unicode="&#xf288;" horiz-adv-x="512" 
+  1113  d="M326.3 229.2c0 -20.5 -16.7002 -37.2002 -37.2002 -37.2002h-70.2998v74.4004h70.2998c20.5 0 37.2002 -16.7002 37.2002 -37.2002zM504 192c0 -137 -111 -248 -248 -248s-248 111 -248 248s111 248 248 248s248 -111 248 -248zM375.9 229.2
+
+plugins/jquery/jquery.js:
+  4770  			// Evaluate and update our best guess (doubling guesses that zero out).
+  4771: 			// Finish if the scale equals or crosses 1 (making the old*new product non-positive).
+  4772  			jQuery.style( elem, prop, initialInUnit + unit );
+
+plugins/jquery/jquery.slim.js:
+  4770  			// Evaluate and update our best guess (doubling guesses that zero out).
+  4771: 			// Finish if the scale equals or crosses 1 (making the old*new product non-positive).
+  4772  			jQuery.style( elem, prop, initialInUnit + unit );
+
+plugins/jquery-validation/additional-methods.js:
+  1298   *
+  1299:  *	<input class="productinfo" name="partnumber">
+  1300:  *	<input class="productinfo" name="description">
+  1301   *
+
+  1303   *
+  1304:  * partnumber:	{require_from_group: [1,".productinfo"]},
+  1305:  * description: {require_from_group: [1,".productinfo"]}
+  1306   *
+
+  1337   *
+  1338:  *	<input class="productinfo" name="partnumber">
+  1339:  *	<input class="productinfo" name="description">
+  1340:  *	<input class="productinfo" name="color">
+  1341   *
+
+  1344   *
+  1345:  * partnumber:	{skip_or_fill_minimum: [2,".productinfo"]},
+  1346:  * description: {skip_or_fill_minimum: [2,".productinfo"]},
+  1347:  * color:		{skip_or_fill_minimum: [2,".productinfo"]}
+  1348   *
+
+plugins/jszip/jszip.js:
+   5703  //   claim that you wrote the original software. If you use this software
+   5704: //   in a product, an acknowledgment in the product documentation would be
+   5705  //   appreciated but is not required.
+
+   5752  //   claim that you wrote the original software. If you use this software
+   5753: //   in a product, an acknowledgment in the product documentation would be
+   5754  //   appreciated but is not required.
+
+   5826  //   claim that you wrote the original software. If you use this software
+   5827: //   in a product, an acknowledgment in the product documentation would be
+   5828  //   appreciated but is not required.
+
+   5883  //   claim that you wrote the original software. If you use this software
+   5884: //   in a product, an acknowledgment in the product documentation would be
+   5885  //   appreciated but is not required.
+
+   7759  //   claim that you wrote the original software. If you use this software
+   7760: //   in a product, an acknowledgment in the product documentation would be
+   7761  //   appreciated but is not required.
+
+   7819  //   claim that you wrote the original software. If you use this software
+   7820: //   in a product, an acknowledgment in the product documentation would be
+   7821  //   appreciated but is not required.
+
+   8166  //   claim that you wrote the original software. If you use this software
+   8167: //   in a product, an acknowledgment in the product documentation would be
+   8168  //   appreciated but is not required.
+
+   9724  //   claim that you wrote the original software. If you use this software
+   9725: //   in a product, an acknowledgment in the product documentation would be
+   9726  //   appreciated but is not required.
+
+  10069  //   claim that you wrote the original software. If you use this software
+  10070: //   in a product, an acknowledgment in the product documentation would be
+  10071  //   appreciated but is not required.
+
+  10103  //   claim that you wrote the original software. If you use this software
+  10104: //   in a product, an acknowledgment in the product documentation would be
+  10105  //   appreciated but is not required.
+
+  11325  //   claim that you wrote the original software. If you use this software
+  11326: //   in a product, an acknowledgment in the product documentation would be
+  11327  //   appreciated but is not required.
+
+plugins/overlayScrollbars/js/OverlayScrollbars.js:
+  520               * Neither the name of the author nor the names of contributors may be used to endorse 
+  521:              * or promote products derived from this software without specific prior written permission.
+  522               * 
+
+plugins/pdfmake/pdfmake.js:
+  17843  //   claim that you wrote the original software. If you use this software
+  17844: //   in a product, an acknowledgment in the product documentation would be
+  17845  //   appreciated but is not required.
+
+  17901  //   claim that you wrote the original software. If you use this software
+  17902: //   in a product, an acknowledgment in the product documentation would be
+  17903  //   appreciated but is not required.
+
+  31532  //   claim that you wrote the original software. If you use this software
+  31533: //   in a product, an acknowledgment in the product documentation would be
+  31534  //   appreciated but is not required.
+
+  31586  //   claim that you wrote the original software. If you use this software
+  31587: //   in a product, an acknowledgment in the product documentation would be
+  31588  //   appreciated but is not required.
+
+  33467  //   claim that you wrote the original software. If you use this software
+  33468: //   in a product, an acknowledgment in the product documentation would be
+  33469  //   appreciated but is not required.
+
+  34696  //   claim that you wrote the original software. If you use this software
+  34697: //   in a product, an acknowledgment in the product documentation would be
+  34698  //   appreciated but is not required.
+
+  34735  //   claim that you wrote the original software. If you use this software
+  34736: //   in a product, an acknowledgment in the product documentation would be
+  34737  //   appreciated but is not required.
+
+  36298  //   claim that you wrote the original software. If you use this software
+  36299: //   in a product, an acknowledgment in the product documentation would be
+  36300  //   appreciated but is not required.
+
+  36650  //   claim that you wrote the original software. If you use this software
+  36651: //   in a product, an acknowledgment in the product documentation would be
+  36652  //   appreciated but is not required.
+
+  37000  //   claim that you wrote the original software. If you use this software
+  37001: //   in a product, an acknowledgment in the product documentation would be
+  37002  //   appreciated but is not required.
+
+  51283  
+  51284: ⟪ 1222 characters skipped ⟫ 'germandbls', 'registered', 'copyright', 'trademark', 'acute', 'dieresis', 'notequal', 'AE', 'Oslash', 'infinity', 'plusminus', 'lessequal', 'greaterequal', 'yen', 'mu', 'partialdiff', 'summation', 'product', 'pi', 'integral', 'ordfeminine', 'ordmasculine', 'Omega', 'ae', 'oslash', 'questiondown', 'exclamdown', 'logicalnot', 'radical', 'florin', 'approxequal', 'Delta', 'guillemotleft', 'guillemotright', 'ellipsis', 'nonbreakingspace', 'Agrave', 'Atilde', 'Otilde', 'OE', 'oe', 'endash', 'emdash', 'quotedblleft', 'quotedblright', 'quoteleft', 'quoteright', 'divide', 'lozenge', 'ydieresis', 'Ydieresis', 'fraction', 'currency', 'guilsinglleft', 'guilsinglright', 'fi', 'fl', 'daggerdbl', 'periodcentered', 'quotesinglbase', 'quotedblbase', 'perthousand', 'Acircumflex', 'Ecircumflex', 'Aacute', 'Edieresis', 'Egrave', 'Iacute', 'Icircumflex', 'Idieresis', 'Igrave', 'Oacute', 'Ocircumflex', 'apple', 'Ograve', 'Uacute', 'Ucircumflex', 'Ugrave', 'dotlessi', 'circumflex', 'tilde', 'macron', 'breve', 'dotaccent', 'ring', 'cedilla', 'hungarumlaut', 'ogonek', 'caron', 'Lslash', 'lslash', 'Scaron', 'scaron', 'Zcaron', 'zcaron', 'brokenbar', 'Eth', 'eth', 'Yacute', 'yacute', 'Thorn', 'thorn', 'min
+  51285  
+
+  53296  
+  53297:         // take product of all the axis scalars
+  53298          scalar *= axisScalar;
+
+  67395  //
+  67396: // generator polynomial of degree K is product of (x-\alpha^0), (x-\alpha^1),
+  67397  // ..., (x-\alpha^(K-1)). by convention, we omit the K-th coefficient (always 1)
+
+plugins/pdfmake/pdfmake.js.map:
+  1: ⟪ 1271256 characters skipped ⟫ct to the following restrictions:\n//\n// 1. The origin of this software must not be misrepresented; you must not\n//   claim that you wrote the original software. If you use this software\n//   in a product, an acknowledgment in the product documentation would be\n//   appreciated but is not required.\n// 2. Altered source versions must be plainly marked as such, and must not be\n//   misrepresented as being the original software.\n// 3. This notice may not be removed or altered from any source distribution.\n\nfunction adler32(adler, buf, len, pos) {\n  var s1 = (adler & 0xffff) |0,\n      s2 = ((adler >>> 16) & 0xffff) |0,\n      n = 0;\n\n  while (len !== 0) {\n    // Set limit ~ twice less than 5552, to keep\n    // s2 in 31-bits, because we force signed ints.\n    // in other case %= will fail.\n    n = len > 2000 ? 2000 : len;\n    len -= n;\n\n    do {\n      s1 = (s1 + buf[pos++]) |0;\n      s2 = (s2 + s1) |0;\n    } while (--n);\n\n    s1 %= 65521;\n    s2 %= 65521;\n  }\n\n  return (s1 | (s2 << 16)) |0;\n}\n\n\nmodule.exports = adler32;\n","'use strict';\n\n// Note: we can't get significant speed boost here.\n// So write code to minimize size - no pregenerated tables\n// and array tools dependencies.\n\n⟪ 462 characters skipped ⟫ct to the following restrictions:\n//\n// 1. The origin of this software must not be misrepresented; you must not\n//   claim that you wrote the original software. If you use this software\n//   in a product, an acknowledgment in the product documentation would be\n//   appreciated but is not required.\n// 2. Altered source versions must be plainly marked as such, and must not be\n//   misrepresented as being the original software.\n// 3. This notice may not be removed or altered from any source distribution.\n\n// Use ordinary array, since untyped makes no boost here\nfunction makeTable() {\n  var c, table = [];\n\n  for (var n = 0; n < 256; n++) {\n    c = n;\n    for (var k = 0; k < 8; k++) {\n      c = ((c & 1) ? (0xEDB88320 ^ (c >>> 1)) : (c >>> 1));\n    }\n    table[n] = c;\n  }\n\n  return table;\n}\n\n// Create table on load. Just 255 signed longs. Not a problem.\nvar crcTable = makeTable();\n\n\nfunction crc32(crc, buf, len, pos) {\n  var t = crcTable,\n      end = pos + len;\n\n  crc ^= -1;\n\n  for (var i = pos; i < end; i++) {\n    crc = (crc >>> 8) ^ t[(crc ^ buf[i]) & 0xFF];\n  }\n\n  return (crc ^ (-1)); // >>> 0;\n}\n\n\nmodule.exports = crc32;\n",";(function (root, factory) {\n\tif (typeof exports⟪ 391988 characters skipped ⟫ct to the following restrictions:\n//\n// 1. The origin of this software must not be misrepresented; you must not\n//   claim that you wrote the original software. If you use this software\n//   in a product, an acknowledgment in the product documentation would be\n//   appreciated but is not required.\n// 2. Altered source versions must be plainly marked as such, and must not be\n//   misrepresented as being the original software.\n// 3. This notice may not be removed or altered from any source distribution.\n\nfunction ZStream() {\n  /* next input byte */\n  this.input = null; // JS specific, because we have no pointers\n  this.next_in = 0;\n  /* number of bytes available at input */\n  this.avail_in = 0;\n  /* total number of input bytes read so far */\n  this.total_in = 0;\n  /* next output byte should be put there */\n  this.output = null; // JS specific, because we have no pointers\n  this.next_out = 0;\n  /* remaining free space at output */\n  this.avail_out = 0;\n  /* total number of bytes output so far */\n  this.total_out = 0;\n  /* last error message, NULL if no error */\n  this.msg = ''/*Z_NULL*/;\n  /* not visible by applications */\n  this.state = null;\n  /* best guess about the data type: binary or⟪ 627 characters skipped ⟫ct to the following restrictions:\n//\n// 1. The origin of this software must not be misrepresented; you must not\n//   claim that you wrote the original software. If you use this software\n//   in a product, an acknowledgment in the product documentation would be\n//   appreciated but is not required.\n// 2. Altered source versions must be plainly marked as such, and must not be\n//   misrepresented as being the original software.\n// 3. This notice may not be removed or altered from any source distribution.\n\nvar utils   = require('../utils/common');\nvar trees   = require('./trees');\nvar adler32 = require('./adler32');\nvar crc32   = require('./crc32');\nvar msg     = require('./messages');\n\n/* Public constants ==========================================================*/\n/* ===========================================================================*/\n\n\n/* Allowed flush values; see deflate() and inflate() below for details */\nvar Z_NO_FLUSH      = 0;\nvar Z_PARTIAL_FLUSH = 1;\n//var Z_SYNC_FLUSH    = 2;\nvar Z_FULL_FLUSH    = 3;\nvar Z_FINISH        = 4;\nvar Z_BLOCK         = 5;\n//var Z_TREES         = 6;\n\n\n/* Return codes for the compression/decompression functions. Negative values\n * are errors, ⟪ 61871 characters skipped ⟫ct to the following restrictions:\n//\n// 1. The origin of this software must not be misrepresented; you must not\n//   claim that you wrote the original software. If you use this software\n//   in a product, an acknowledgment in the product documentation would be\n//   appreciated but is not required.\n// 2. Altered source versions must be plainly marked as such, and must not be\n//   misrepresented as being the original software.\n// 3. This notice may not be removed or altered from any source distribution.\n\n/* eslint-disable space-unary-ops */\n\nvar utils = require('../utils/common');\n\n/* Public constants ==========================================================*/\n/* ===========================================================================*/\n\n\n//var Z_FILTERED          = 1;\n//var Z_HUFFMAN_ONLY      = 2;\n//var Z_RLE               = 3;\nvar Z_FIXED               = 4;\n//var Z_DEFAULT_STRATEGY  = 0;\n\n/* Possible values of the data_type field (though see inflate()) */\nvar Z_BINARY              = 0;\nvar Z_TEXT                = 1;\n//var Z_ASCII             = 1; // = Z_TEXT\nvar Z_UNKNOWN             = 2;\n\n/*============================================================================*/\n\n\nfuncti⟪ 39958 characters skipped ⟫ct to the following restrictions:\n//\n// 1. The origin of this software must not be misrepresented; you must not\n//   claim that you wrote the original software. If you use this software\n//   in a product, an acknowledgment in the product documentation would be\n//   appreciated but is not required.\n// 2. Altered source versions must be plainly marked as such, and must not be\n//   misrepresented as being the original software.\n// 3. This notice may not be removed or altered from any source distribution.\n\nmodule.exports = {\n  2:      'need dictionary',     /* Z_NEED_DICT       2  */\n  1:      'stream end',          /* Z_STREAM_END      1  */\n  0:      '',                    /* Z_OK              0  */\n  '-1':   'file error',          /* Z_ERRNO         (-1) */\n  '-2':   'stream error',        /* Z_STREAM_ERROR  (-2) */\n  '-3':   'data error',          /* Z_DATA_ERROR    (-3) */\n  '-4':   'insufficient memory', /* Z_MEM_ERROR     (-4) */\n  '-5':   'buffer error',        /* Z_BUF_ERROR     (-5) */\n  '-6':   'incompatible version' /* Z_VERSION_ERROR (-6) */\n};\n","'use strict';\n\n// (C) 1995-2013 Jean-loup Gailly and Mark Adler\n// (C) 2014-2017 Vitaly Puzrin and Andrey Tupitsin\n//\n// This software ⟪ 339 characters skipped ⟫ct to the following restrictions:\n//\n// 1. The origin of this software must not be misrepresented; you must not\n//   claim that you wrote the original software. If you use this software\n//   in a product, an acknowledgment in the product documentation would be\n//   appreciated but is not required.\n// 2. Altered source versions must be plainly marked as such, and must not be\n//   misrepresented as being the original software.\n// 3. This notice may not be removed or altered from any source distribution.\n\nvar utils         = require('../utils/common');\nvar adler32       = require('./adler32');\nvar crc32         = require('./crc32');\nvar inflate_fast  = require('./inffast');\nvar inflate_table = require('./inftrees');\n\nvar CODES = 0;\nvar LENS = 1;\nvar DISTS = 2;\n\n/* Public constants ==========================================================*/\n/* ===========================================================================*/\n\n\n/* Allowed flush values; see deflate() and inflate() below for details */\n//var Z_NO_FLUSH      = 0;\n//var Z_PARTIAL_FLUSH = 1;\n//var Z_SYNC_FLUSH    = 2;\n//var Z_FULL_FLUSH    = 3;\nvar Z_FINISH        = 4;\nvar Z_BLOCK         = 5;\nvar Z_TREES         = 6;\n\n\n/* Retur⟪ 50689 characters skipped ⟫ct to the following restrictions:\n//\n// 1. The origin of this software must not be misrepresented; you must not\n//   claim that you wrote the original software. If you use this software\n//   in a product, an acknowledgment in the product documentation would be\n//   appreciated but is not required.\n// 2. Altered source versions must be plainly marked as such, and must not be\n//   misrepresented as being the original software.\n// 3. This notice may not be removed or altered from any source distribution.\n\n// See state defs from inflate.js\nvar BAD = 30;       /* got a data error -- remain here until reset */\nvar TYPE = 12;      /* i: waiting for type bits, including last-flag bit */\n\n/*\n   Decode literal, length, and distance codes and write out the resulting\n   literal and match bytes until either not enough input or output is\n   available, an end-of-block is encountered, or a data error is encountered.\n   When large enough input and output buffers are supplied to inflate(), for\n   example, a 16K input buffer and a 64K output buffer, more than 95% of the\n   inflate execution time is spent in this routine.\n\n   Entry assumptions:\n\n        state.mode === LEN\n        strm.avail_in >= 6\n        st⟪ 11801 characters skipped ⟫ct to the following restrictions:\n//\n// 1. The origin of this software must not be misrepresented; you must not\n//   claim that you wrote the original software. If you use this software\n//   in a product, an acknowledgment in the product documentation would be\n//   appreciated but is not required.\n// 2. Altered source versions must be plainly marked as such, and must not be\n//   misrepresented as being the original software.\n// 3. This notice may not be removed or altered from any source distribution.\n\nvar utils = require('../utils/common');\n\nvar MAXBITS = 15;\nvar ENOUGH_LENS = 852;\nvar ENOUGH_DISTS = 592;\n//var ENOUGH = (ENOUGH_LENS+ENOUGH_DISTS);\n\nvar CODES = 0;\nvar LENS = 1;\nvar DISTS = 2;\n\nvar lbase = [ /* Length codes 257..285 base */\n  3, 4, 5, 6, 7, 8, 9, 10, 11, 13, 15, 17, 19, 23, 27, 31,\n  35, 43, 51, 59, 67, 83, 99, 115, 131, 163, 195, 227, 258, 0, 0\n];\n\nvar lext = [ /* Length codes 257..285 extra */\n  16, 16, 16, 16, 16, 16, 16, 16, 17, 17, 17, 17, 18, 18, 18, 18,\n  19, 19, 19, 19, 20, 20, 20, 20, 21, 21, 21, 21, 16, 72, 78\n];\n\nvar dbase = [ /* Distance codes 0..29 base */\n  1, 2, 3, 4, 5, 7, 9, 13, 17, 25, 33, 49, 65, 97, 129, 193,\n  257, 385, 513, 769, 1025, 1537, 2049⟪ 11612 characters skipped ⟫ct to the following restrictions:\n//\n// 1. The origin of this software must not be misrepresented; you must not\n//   claim that you wrote the original software. If you use this software\n//   in a product, an acknowledgment in the product documentation would be\n//   appreciated but is not required.\n// 2. Altered source versions must be plainly marked as such, and must not be\n//   misrepresented as being the original software.\n// 3. This notice may not be removed or altered from any source distribution.\n\nmodule.exports = {\n\n  /* Allowed flush values; see deflate() and inflate() below for details */\n  Z_NO_FLUSH:         0,\n  Z_PARTIAL_FLUSH:    1,\n  Z_SYNC_FLUSH:       2,\n  Z_FULL_FLUSH:       3,\n  Z_FINISH:           4,\n  Z_BLOCK:            5,\n  Z_TREES:            6,\n\n  /* Return codes for the compression/decompression functions. Negative values\n  * are errors, positive values are used for special but normal events.\n  */\n  Z_OK:               0,\n  Z_STREAM_END:       1,\n  Z_NEED_DICT:        2,\n  Z_ERRNO:           -1,\n  Z_STREAM_ERROR:    -2,\n  Z_DATA_ERROR:      -3,\n  //Z_MEM_ERROR:     -4,\n  Z_BUF_ERROR:       -5,\n  //Z_VERSION_ERROR: -6,\n\n  /* compression levels */\n  Z_NO_COM⟪ 540630 characters skipped ⟫ 'germandbls', 'registered', 'copyright', 'trademark', 'acute', 'dieresis', 'notequal', 'AE', 'Oslash', 'infinity', 'plusminus', 'lessequal', 'greaterequal', 'yen', 'mu', 'partialdiff', 'summation', 'product', 'pi', 'integral', 'ordfeminine', 'ordmasculine', 'Omega', 'ae', 'oslash', 'questiondown', 'exclamdown', 'logicalnot', 'radical', 'florin', 'approxequal', 'Delta', 'guillemotleft', 'guillemotright', 'ellipsis', 'nonbreakingspace', 'Agrave', 'Atilde', 'Otilde', 'OE', 'oe', 'endash', 'emdash', 'quotedblleft', 'quotedblright', 'quoteleft', 'quoteright', 'divide', 'lozenge', 'ydieresis', 'Ydieresis', 'fraction', 'currency', 'guilsinglleft', 'guilsinglright', 'fi', 'fl', 'daggerdbl', 'periodcentered', 'quotesinglbase', 'quotedblbase', 'perthousand', 'Acircumflex', 'Ecircumflex', 'Aacute', 'Edieresis', 'Egrave', 'Iacute', 'Icircumflex', 'Idieresis', 'Igrave', 'Oacute', 'Ocircumflex', 'apple', 'Ograve', 'Uacute', 'Ucircumflex', 'Ugrave', 'dotlessi', 'circumflex', 'tilde', 'macron', 'breve', 'dotaccent', 'ring', 'cedilla', 'hungarumlaut', 'ogonek', 'caron', 'Lslash', 'lslash', 'Scaron', 'scaron', 'Zcaron', 'zcaron', 'brokenbar', 'Eth', 'eth', 'Yacute', 'yacute', 'Thorn', 'thorn', 'min⟪ 61046 characters skipped ⟫\n          } else {\n            axisScalar = (axis.endCoord - normalizedCoords[j] + _Number$EPSILON) / (axis.endCoord - axis.peakCoord + _Number$EPSILON);\n          }\n        }\n\n        // take product of all the axis scalars\n        scalar *= axisScalar;\n      }\n\n      blendVector[master] = scalar;\n    }\n\n    this.blendVectors.set(varData, blendVector);\n    return blendVector;\n  };\n\n  return GlyphVariationProcessor;\n}();\n\nvar resolved = _Promise.resolve();\n\nvar Subset = function () {\n  function Subset(font) {\n    _classCallCheck(this, Subset);\n\n    this.font = font;\n    this.glyphs = [];\n    this.mapping = {};\n\n    // always include the missing glyph\n    this.includeGlyph(0);\n  }\n\n  Subset.prototype.includeGlyph = function includeGlyph(glyph) {\n    if ((typeof glyph === 'undefined' ? 'undefined' : _typeof(glyph)) === 'object') {\n      glyph = glyph.id;\n    }\n\n    if (this.mapping[glyph] == null) {\n      this.glyphs.push(glyph);\n      this.mapping[glyph] = this.glyphs.length - 1;\n    }\n\n    return this.mapping[glyph];\n  };\n\n  Subset.prototype.encodeStream = function encodeStream() {\n    var _this = this;\n\n    var s = new r.EncodeStr⟪ 506544 characters skipped ⟫* 2) ^ (v >= 128 ? 0x11d : 0);\r\n}\r\n\r\n// generator polynomials up to degree 30\r\n// (should match with polynomials in JIS X 0510:2004 Appendix A)\r\n//\r\n// generator polynomial of degree K is product of (x-\\alpha^0), (x-\\alpha^1),\r\n// ..., (x-\\alpha^(K-1)). by convention, we omit the K-th coefficient (always 1)\r\n// from the result; also other coefficients are written in terms of the exponent\r\n// to \\alpha to avoid the redundant calculation. (see also calculateecc below.)\r\nvar GF256_GENPOLY = [[]];\r\nfor (var i = 0; i < 30; ++i) {\r\n\tvar prevpoly = GF256_GENPOLY[i], poly = [];\r\n\tfor (var j = 0; j <= i; ++j) {\r\n\t\tvar a = (j < i ? GF256_MAP[prevpoly[j]] : 0);\r\n\t\tvar b = GF256_MAP[(i + (prevpoly[j - 1] || 0)) % 255];\r\n\t\tpoly.push(GF256_INVMAP[a ^ b]);\r\n\t}\r\n\tGF256_GENPOLY.push(poly);\r\n}\r\n\r\n// alphanumeric character mapping (cf. Table 5 in JIS X 0510:2004 p. 19)\r\nvar ALPHANUMERIC_MAP = {};\r\nfor (var i = 0; i < 45; ++i) {\r\n\tALPHANUMERIC_MAP['0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ $%*+-./:'.charAt(i)] = i;\r\n}\r\n\r\n// mask functions in terms of row # and column #\r\n// (cf. Table 20 in JIS X 0510:2004 p. 42)\r\n/*jshint unused: fals
+
+plugins/pdfmake/pdfmake.min.js:
+  1  /*! pdfmake v0.1.69, @license MIT, @link http://pdfmake.org */
+  2: ⟪ 703627 characters skipped ⟫llet","paragraph","germandbls","registered","copyright","trademark","acute","dieresis","notequal","AE","Oslash","infinity","plusminus","lessequal","greaterequal","yen","mu","partialdiff","summation","product","pi","integral","ordfeminine","ordmasculine","Omega","ae","oslash","questiondown","exclamdown","logicalnot","radical","florin","approxequal","Delta","guillemotleft","guillemotright","ellipsis","nonbreakingspace","Agrave","Atilde","Otilde","OE","oe","endash","emdash","quotedblleft","quotedblright","quoteleft","quoteright","divide","lozenge","ydieresis","Ydieresis","fraction","currency","guilsinglleft","guilsinglright","fi","fl","daggerdbl","periodcentered","quotesinglbase","quotedblbase","perthousand","Acircumflex","Ecircumflex","Aacute","Edieresis","Egrave","Iacute","Icircumflex","Idieresis","Igrave","Oacute","Ocircumflex","apple","Ograve","Uacute","Ucircumflex","Ugrave","dotlessi","circumflex","tilde","macron","breve","dotaccent","ring","cedilla","hungarumlaut","ogonek","caron","Lslash","lslash","Scaron","scaron","Zcaron","zcaron","brokenbar","Eth","eth","Yacute","yacute","Thorn","thorn","minus","multiply","onesuperior","twosuperior","threesuperior","onehalf","onequarter","th
+  3  //# sourceMappingURL=pdfmake.min.js.map
+
+plugins/pdfmake/pdfmake.min.js.map:
+  1: ⟪ 1927299 characters skipped ⟫ct to the following restrictions:\n//\n// 1. The origin of this software must not be misrepresented; you must not\n//   claim that you wrote the original software. If you use this software\n//   in a product, an acknowledgment in the product documentation would be\n//   appreciated but is not required.\n// 2. Altered source versions must be plainly marked as such, and must not be\n//   misrepresented as being the original software.\n// 3. This notice may not be removed or altered from any source distribution.\n\nfunction adler32(adler, buf, len, pos) {\n  var s1 = (adler & 0xffff) |0,\n      s2 = ((adler >>> 16) & 0xffff) |0,\n      n = 0;\n\n  while (len !== 0) {\n    // Set limit ~ twice less than 5552, to keep\n    // s2 in 31-bits, because we force signed ints.\n    // in other case %= will fail.\n    n = len > 2000 ? 2000 : len;\n    len -= n;\n\n    do {\n      s1 = (s1 + buf[pos++]) |0;\n      s2 = (s2 + s1) |0;\n    } while (--n);\n\n    s1 %= 65521;\n    s2 %= 65521;\n  }\n\n  return (s1 | (s2 << 16)) |0;\n}\n\n\nmodule.exports = adler32;\n","'use strict';\n\n// Note: we can't get significant speed boost here.\n// So write code to minimize size - no pregenerated tables\n// and array tools dependencies.\n\n⟪ 462 characters skipped ⟫ct to the following restrictions:\n//\n// 1. The origin of this software must not be misrepresented; you must not\n//   claim that you wrote the original software. If you use this software\n//   in a product, an acknowledgment in the product documentation would be\n//   appreciated but is not required.\n// 2. Altered source versions must be plainly marked as such, and must not be\n//   misrepresented as being the original software.\n// 3. This notice may not be removed or altered from any source distribution.\n\n// Use ordinary array, since untyped makes no boost here\nfunction makeTable() {\n  var c, table = [];\n\n  for (var n = 0; n < 256; n++) {\n    c = n;\n    for (var k = 0; k < 8; k++) {\n      c = ((c & 1) ? (0xEDB88320 ^ (c >>> 1)) : (c >>> 1));\n    }\n    table[n] = c;\n  }\n\n  return table;\n}\n\n// Create table on load. Just 255 signed longs. Not a problem.\nvar crcTable = makeTable();\n\n\nfunction crc32(crc, buf, len, pos) {\n  var t = crcTable,\n      end = pos + len;\n\n  crc ^= -1;\n\n  for (var i = pos; i < end; i++) {\n    crc = (crc >>> 8) ^ t[(crc ^ buf[i]) & 0xFF];\n  }\n\n  return (crc ^ (-1)); // >>> 0;\n}\n\n\nmodule.exports = crc32;\n",";(function (root, factory) {\n\tif (typeof exports⟪ 391952 characters skipped ⟫ct to the following restrictions:\n//\n// 1. The origin of this software must not be misrepresented; you must not\n//   claim that you wrote the original software. If you use this software\n//   in a product, an acknowledgment in the product documentation would be\n//   appreciated but is not required.\n// 2. Altered source versions must be plainly marked as such, and must not be\n//   misrepresented as being the original software.\n// 3. This notice may not be removed or altered from any source distribution.\n\nfunction ZStream() {\n  /* next input byte */\n  this.input = null; // JS specific, because we have no pointers\n  this.next_in = 0;\n  /* number of bytes available at input */\n  this.avail_in = 0;\n  /* total number of input bytes read so far */\n  this.total_in = 0;\n  /* next output byte should be put there */\n  this.output = null; // JS specific, because we have no pointers\n  this.next_out = 0;\n  /* remaining free space at output */\n  this.avail_out = 0;\n  /* total number of bytes output so far */\n  this.total_out = 0;\n  /* last error message, NULL if no error */\n  this.msg = ''/*Z_NULL*/;\n  /* not visible by applications */\n  this.state = null;\n  /* best guess about the data type: binary or⟪ 627 characters skipped ⟫ct to the following restrictions:\n//\n// 1. The origin of this software must not be misrepresented; you must not\n//   claim that you wrote the original software. If you use this software\n//   in a product, an acknowledgment in the product documentation would be\n//   appreciated but is not required.\n// 2. Altered source versions must be plainly marked as such, and must not be\n//   misrepresented as being the original software.\n// 3. This notice may not be removed or altered from any source distribution.\n\nvar utils   = require('../utils/common');\nvar trees   = require('./trees');\nvar adler32 = require('./adler32');\nvar crc32   = require('./crc32');\nvar msg     = require('./messages');\n\n/* Public constants ==========================================================*/\n/* ===========================================================================*/\n\n\n/* Allowed flush values; see deflate() and inflate() below for details */\nvar Z_NO_FLUSH      = 0;\nvar Z_PARTIAL_FLUSH = 1;\n//var Z_SYNC_FLUSH    = 2;\nvar Z_FULL_FLUSH    = 3;\nvar Z_FINISH        = 4;\nvar Z_BLOCK         = 5;\n//var Z_TREES         = 6;\n\n\n/* Return codes for the compression/decompression functions. Negative values\n * are errors, ⟪ 61871 characters skipped ⟫ct to the following restrictions:\n//\n// 1. The origin of this software must not be misrepresented; you must not\n//   claim that you wrote the original software. If you use this software\n//   in a product, an acknowledgment in the product documentation would be\n//   appreciated but is not required.\n// 2. Altered source versions must be plainly marked as such, and must not be\n//   misrepresented as being the original software.\n// 3. This notice may not be removed or altered from any source distribution.\n\n/* eslint-disable space-unary-ops */\n\nvar utils = require('../utils/common');\n\n/* Public constants ==========================================================*/\n/* ===========================================================================*/\n\n\n//var Z_FILTERED          = 1;\n//var Z_HUFFMAN_ONLY      = 2;\n//var Z_RLE               = 3;\nvar Z_FIXED               = 4;\n//var Z_DEFAULT_STRATEGY  = 0;\n\n/* Possible values of the data_type field (though see inflate()) */\nvar Z_BINARY              = 0;\nvar Z_TEXT                = 1;\n//var Z_ASCII             = 1; // = Z_TEXT\nvar Z_UNKNOWN             = 2;\n\n/*============================================================================*/\n\n\nfuncti⟪ 39958 characters skipped ⟫ct to the following restrictions:\n//\n// 1. The origin of this software must not be misrepresented; you must not\n//   claim that you wrote the original software. If you use this software\n//   in a product, an acknowledgment in the product documentation would be\n//   appreciated but is not required.\n// 2. Altered source versions must be plainly marked as such, and must not be\n//   misrepresented as being the original software.\n// 3. This notice may not be removed or altered from any source distribution.\n\nmodule.exports = {\n  2:      'need dictionary',     /* Z_NEED_DICT       2  */\n  1:      'stream end',          /* Z_STREAM_END      1  */\n  0:      '',                    /* Z_OK              0  */\n  '-1':   'file error',          /* Z_ERRNO         (-1) */\n  '-2':   'stream error',        /* Z_STREAM_ERROR  (-2) */\n  '-3':   'data error',          /* Z_DATA_ERROR    (-3) */\n  '-4':   'insufficient memory', /* Z_MEM_ERROR     (-4) */\n  '-5':   'buffer error',        /* Z_BUF_ERROR     (-5) */\n  '-6':   'incompatible version' /* Z_VERSION_ERROR (-6) */\n};\n","'use strict';\n\n// (C) 1995-2013 Jean-loup Gailly and Mark Adler\n// (C) 2014-2017 Vitaly Puzrin and Andrey Tupitsin\n//\n// This software ⟪ 339 characters skipped ⟫ct to the following restrictions:\n//\n// 1. The origin of this software must not be misrepresented; you must not\n//   claim that you wrote the original software. If you use this software\n//   in a product, an acknowledgment in the product documentation would be\n//   appreciated but is not required.\n// 2. Altered source versions must be plainly marked as such, and must not be\n//   misrepresented as being the original software.\n// 3. This notice may not be removed or altered from any source distribution.\n\nvar utils         = require('../utils/common');\nvar adler32       = require('./adler32');\nvar crc32         = require('./crc32');\nvar inflate_fast  = require('./inffast');\nvar inflate_table = require('./inftrees');\n\nvar CODES = 0;\nvar LENS = 1;\nvar DISTS = 2;\n\n/* Public constants ==========================================================*/\n/* ===========================================================================*/\n\n\n/* Allowed flush values; see deflate() and inflate() below for details */\n//var Z_NO_FLUSH      = 0;\n//var Z_PARTIAL_FLUSH = 1;\n//var Z_SYNC_FLUSH    = 2;\n//var Z_FULL_FLUSH    = 3;\nvar Z_FINISH        = 4;\nvar Z_BLOCK         = 5;\nvar Z_TREES         = 6;\n\n\n/* Retur⟪ 50689 characters skipped ⟫ct to the following restrictions:\n//\n// 1. The origin of this software must not be misrepresented; you must not\n//   claim that you wrote the original software. If you use this software\n//   in a product, an acknowledgment in the product documentation would be\n//   appreciated but is not required.\n// 2. Altered source versions must be plainly marked as such, and must not be\n//   misrepresented as being the original software.\n// 3. This notice may not be removed or altered from any source distribution.\n\n// See state defs from inflate.js\nvar BAD = 30;       /* got a data error -- remain here until reset */\nvar TYPE = 12;      /* i: waiting for type bits, including last-flag bit */\n\n/*\n   Decode literal, length, and distance codes and write out the resulting\n   literal and match bytes until either not enough input or output is\n   available, an end-of-block is encountered, or a data error is encountered.\n   When large enough input and output buffers are supplied to inflate(), for\n   example, a 16K input buffer and a 64K output buffer, more than 95% of the\n   inflate execution time is spent in this routine.\n\n   Entry assumptions:\n\n        state.mode === LEN\n        strm.avail_in >= 6\n        st⟪ 11801 characters skipped ⟫ct to the following restrictions:\n//\n// 1. The origin of this software must not be misrepresented; you must not\n//   claim that you wrote the original software. If you use this software\n//   in a product, an acknowledgment in the product documentation would be\n//   appreciated but is not required.\n// 2. Altered source versions must be plainly marked as such, and must not be\n//   misrepresented as being the original software.\n// 3. This notice may not be removed or altered from any source distribution.\n\nvar utils = require('../utils/common');\n\nvar MAXBITS = 15;\nvar ENOUGH_LENS = 852;\nvar ENOUGH_DISTS = 592;\n//var ENOUGH = (ENOUGH_LENS+ENOUGH_DISTS);\n\nvar CODES = 0;\nvar LENS = 1;\nvar DISTS = 2;\n\nvar lbase = [ /* Length codes 257..285 base */\n  3, 4, 5, 6, 7, 8, 9, 10, 11, 13, 15, 17, 19, 23, 27, 31,\n  35, 43, 51, 59, 67, 83, 99, 115, 131, 163, 195, 227, 258, 0, 0\n];\n\nvar lext = [ /* Length codes 257..285 extra */\n  16, 16, 16, 16, 16, 16, 16, 16, 17, 17, 17, 17, 18, 18, 18, 18,\n  19, 19, 19, 19, 20, 20, 20, 20, 21, 21, 21, 21, 16, 72, 78\n];\n\nvar dbase = [ /* Distance codes 0..29 base */\n  1, 2, 3, 4, 5, 7, 9, 13, 17, 25, 33, 49, 65, 97, 129, 193,\n  257, 385, 513, 769, 1025, 1537, 2049⟪ 11612 characters skipped ⟫ct to the following restrictions:\n//\n// 1. The origin of this software must not be misrepresented; you must not\n//   claim that you wrote the original software. If you use this software\n//   in a product, an acknowledgment in the product documentation would be\n//   appreciated but is not required.\n// 2. Altered source versions must be plainly marked as such, and must not be\n//   misrepresented as being the original software.\n// 3. This notice may not be removed or altered from any source distribution.\n\nmodule.exports = {\n\n  /* Allowed flush values; see deflate() and inflate() below for details */\n  Z_NO_FLUSH:         0,\n  Z_PARTIAL_FLUSH:    1,\n  Z_SYNC_FLUSH:       2,\n  Z_FULL_FLUSH:       3,\n  Z_FINISH:           4,\n  Z_BLOCK:            5,\n  Z_TREES:            6,\n\n  /* Return codes for the compression/decompression functions. Negative values\n  * are errors, positive values are used for special but normal events.\n  */\n  Z_OK:               0,\n  Z_STREAM_END:       1,\n  Z_NEED_DICT:        2,\n  Z_ERRNO:           -1,\n  Z_STREAM_ERROR:    -2,\n  Z_DATA_ERROR:      -3,\n  //Z_MEM_ERROR:     -4,\n  Z_BUF_ERROR:       -5,\n  //Z_VERSION_ERROR: -6,\n\n  /* compression levels */\n  Z_NO_COM⟪ 540630 characters skipped ⟫ 'germandbls', 'registered', 'copyright', 'trademark', 'acute', 'dieresis', 'notequal', 'AE', 'Oslash', 'infinity', 'plusminus', 'lessequal', 'greaterequal', 'yen', 'mu', 'partialdiff', 'summation', 'product', 'pi', 'integral', 'ordfeminine', 'ordmasculine', 'Omega', 'ae', 'oslash', 'questiondown', 'exclamdown', 'logicalnot', 'radical', 'florin', 'approxequal', 'Delta', 'guillemotleft', 'guillemotright', 'ellipsis', 'nonbreakingspace', 'Agrave', 'Atilde', 'Otilde', 'OE', 'oe', 'endash', 'emdash', 'quotedblleft', 'quotedblright', 'quoteleft', 'quoteright', 'divide', 'lozenge', 'ydieresis', 'Ydieresis', 'fraction', 'currency', 'guilsinglleft', 'guilsinglright', 'fi', 'fl', 'daggerdbl', 'periodcentered', 'quotesinglbase', 'quotedblbase', 'perthousand', 'Acircumflex', 'Ecircumflex', 'Aacute', 'Edieresis', 'Egrave', 'Iacute', 'Icircumflex', 'Idieresis', 'Igrave', 'Oacute', 'Ocircumflex', 'apple', 'Ograve', 'Uacute', 'Ucircumflex', 'Ugrave', 'dotlessi', 'circumflex', 'tilde', 'macron', 'breve', 'dotaccent', 'ring', 'cedilla', 'hungarumlaut', 'ogonek', 'caron', 'Lslash', 'lslash', 'Scaron', 'scaron', 'Zcaron', 'zcaron', 'brokenbar', 'Eth', 'eth', 'Yacute', 'yacute', 'Thorn', 'thorn', 'min⟪ 61046 characters skipped ⟫\n          } else {\n            axisScalar = (axis.endCoord - normalizedCoords[j] + _Number$EPSILON) / (axis.endCoord - axis.peakCoord + _Number$EPSILON);\n          }\n        }\n\n        // take product of all the axis scalars\n        scalar *= axisScalar;\n      }\n\n      blendVector[master] = scalar;\n    }\n\n    this.blendVectors.set(varData, blendVector);\n    return blendVector;\n  };\n\n  return GlyphVariationProcessor;\n}();\n\nvar resolved = _Promise.resolve();\n\nvar Subset = function () {\n  function Subset(font) {\n    _classCallCheck(this, Subset);\n\n    this.font = font;\n    this.glyphs = [];\n    this.mapping = {};\n\n    // always include the missing glyph\n    this.includeGlyph(0);\n  }\n\n  Subset.prototype.includeGlyph = function includeGlyph(glyph) {\n    if ((typeof glyph === 'undefined' ? 'undefined' : _typeof(glyph)) === 'object') {\n      glyph = glyph.id;\n    }\n\n    if (this.mapping[glyph] == null) {\n      this.glyphs.push(glyph);\n      this.mapping[glyph] = this.glyphs.length - 1;\n    }\n\n    return this.mapping[glyph];\n  };\n\n  Subset.prototype.encodeStream = function encodeStream() {\n    var _this = this;\n\n    var s = new r.EncodeStr⟪ 506526 characters skipped ⟫* 2) ^ (v >= 128 ? 0x11d : 0);\r\n}\r\n\r\n// generator polynomials up to degree 30\r\n// (should match with polynomials in JIS X 0510:2004 Appendix A)\r\n//\r\n// generator polynomial of degree K is product of (x-\\alpha^0), (x-\\alpha^1),\r\n// ..., (x-\\alpha^(K-1)). by convention, we omit the K-th coefficient (always 1)\r\n// from the result; also other coefficients are written in terms of the exponent\r\n// to \\alpha to avoid the redundant calculation. (see also calculateecc below.)\r\nvar GF256_GENPOLY = [[]];\r\nfor (var i = 0; i < 30; ++i) {\r\n\tvar prevpoly = GF256_GENPOLY[i], poly = [];\r\n\tfor (var j = 0; j <= i; ++j) {\r\n\t\tvar a = (j < i ? GF256_MAP[prevpoly[j]] : 0);\r\n\t\tvar b = GF256_MAP[(i + (prevpoly[j - 1] || 0)) % 255];\r\n\t\tpoly.push(GF256_INVMAP[a ^ b]);\r\n\t}\r\n\tGF256_GENPOLY.push(poly);\r\n}\r\n\r\n// alphanumeric character mapping (cf. Table 5 in JIS X 0510:2004 p. 19)\r\nvar ALPHANUMERIC_MAP = {};\r\nfor (var i = 0; i < 45; ++i) {\r\n\tALPHANUMERIC_MAP['0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ $%*+-./:'.charAt(i)] = i;\r\n}\r\n\r\n// mask functions in terms of row # and column #\r\n// (cf. Table 20 in JIS X 0510:2004 p. 42)\r\n/*jshint unused: fals
+
+plugins/toastr/toastr.js.map:
+  1: ⟪ 7355 characters skipped ⟫EjCC,OAAOT,OAASK,EAAQI,OAAOC","file":"toastr.js","sourcesContent":["/*\n * Toastr\n * Copyright 2012-2015\n * Authors: John Papa, Hans Fjällemark, and Tim Ferrell.\n * All Rights Reserved.\n * Use, reproduction, distribution, and modification of this code is subject to the terms and\n * conditions of the MIT license, available at http://www.opensource.org/licenses/mit-license.php\n *\n * ARIA Support: Greta Krafsig\n *\n * Project: https://github.com/CodeSeven/toastr\n */\n/* global define */\n(function (define) {\n    define(['jquery'], function ($) {\n        return (function () {\n            var $container;\n            var listener;\n            var toastId = 0;\n            var toastType = {\n                error: 'error',\n                info: 'info',\n                success: 'success',\n                warning: 'warning'\n            };\n\n            var toastr = {\n                clear: clear,\n                remove: remove,\n                error: error,\n                getContainer: getContainer,\n                info: info,\n                options: {},\n                subscribe: subscribe,\n                success: success,\n                version: '2.1.4',\n 

@@ -1,0 +1,11 @@
+# Query: cash on
+# ContextLines: 1
+
+1 result - 1 file
+
+checkout.php:
+  30                              <div class="d-flex w-100 justify-content-between">
+  31                              <div class="d-flex w-100 justify-content-between">
+  32:                                 <button class="btn btn-flat btn-dark">Cash on Delivery</button>
+  32                                  <span id="paypal-button"></span>
+  33                                  <span id="paypal-button"></span>
